@@ -1,0 +1,4 @@
+ - AAB94D8E4EE5B38D82A4668AAB45466B 
+	/Game/1_Blueprints/Widget/WBP_BaseButtonCalepin.Default__WBP_BaseButtonCalepin_C.ButtonText - "PlaceHolder" 
+	/Game/1_Blueprints/Widget/WBP_BaseButtonCalepin.WBP_BaseButtonCalepin_C:WidgetTree.TextBlock.Text - "Relationships" 
+
