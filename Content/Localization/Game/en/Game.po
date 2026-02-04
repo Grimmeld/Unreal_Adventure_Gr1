@@ -1,0 +1,1464 @@
+﻿# Game English translation.
+# Fill out your copyright notice in the Description page of Project Settings.
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: Game\n"
+"POT-Creation-Date: 2026-02-04 12:56\n"
+"PO-Revision-Date: 2026-02-04 12:56\n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Key:	9A3DAA50401FE1B35B2FF182CDC91BBD
+#. SourceLocation:	/Game/0_Map/BuildScene/Lvl_BuildV2.Lvl_BuildV2:PersistentLevel.BP_HiddenMessage_C_1.Hidden1Blue
+#: /Game/0_Map/BuildScene/Lvl_BuildV2.Lvl_BuildV2:PersistentLevel.BP_HiddenMessage_C_1.Hidden1Blue
+msgctxt ",9A3DAA50401FE1B35B2FF182CDC91BBD"
+msgid "Blue vision"
+msgstr "Blue vision"
+
+#. Key:	79EFD5C54530AFC34D97208BB4934C49
+#. SourceLocation:	/Game/0_Map/BuildScene/Lvl_BuildV2.Lvl_BuildV2:PersistentLevel.BP_HiddenMessage_C_1.Hidden2Yellow
+#: /Game/0_Map/BuildScene/Lvl_BuildV2.Lvl_BuildV2:PersistentLevel.BP_HiddenMessage_C_1.Hidden2Yellow
+msgctxt ",79EFD5C54530AFC34D97208BB4934C49"
+msgid "Yellow vision"
+msgstr "Yellow vision"
+
+#. Key:	A979F36048589C344915188F1EC945C7
+#. SourceLocation:	/Game/0_Map/BuildScene/Lvl_BuildV2.Lvl_BuildV2:PersistentLevel.BP_HiddenMessage_C_1.Hidden3Green
+#: /Game/0_Map/BuildScene/Lvl_BuildV2.Lvl_BuildV2:PersistentLevel.BP_HiddenMessage_C_1.Hidden3Green
+msgctxt ",A979F36048589C344915188F1EC945C7"
+msgid "Green vision"
+msgstr "Green vision"
+
+#. Key:	E342E1FD44D58ABCCC0F6C93B662CFC7
+#. SourceLocation:	/Game/0_Map/BuildScene/Lvl_BuildV2.Lvl_BuildV2:PersistentLevel.BP_HiddenMessage_C_1.VisibleMessage
+#: /Game/0_Map/BuildScene/Lvl_BuildV2.Lvl_BuildV2:PersistentLevel.BP_HiddenMessage_C_1.VisibleMessage
+msgctxt ",E342E1FD44D58ABCCC0F6C93B662CFC7"
+msgid "This is a visible message"
+msgstr "This is a visible message"
+
+#. Key:	81019EF547EA1FE42D475D9873CD1AA2
+#. SourceLocation:	/Game/0_Map/BuildScene/Lvl_BuildV2.Lvl_BuildV2:PersistentLevel.BP_OfficeGuy_C_1.Dialogues(0).Dialogues.Lines_9_23878CF44E9D35D629285BA10C7AD832
+#: /Game/0_Map/BuildScene/Lvl_BuildV2.Lvl_BuildV2:PersistentLevel.BP_OfficeGuy_C_1.Dialogues(0).Dialogues.Lines_9_23878CF44E9D35D629285BA10C7AD832
+msgctxt ",81019EF547EA1FE42D475D9873CD1AA2"
+msgid "Hello World !"
+msgstr "Hello World !"
+
+#. Key:	FEB107BB42DD8E1F65548880B5E76307
+#. SourceLocation:	/Game/0_Map/BuildScene/Lvl_BuildV2.Lvl_BuildV2:PersistentLevel.BP_OfficeGuy_C_1.Dialogues(0).Dialogues.NameNPC_3_774F854A4C9447F4518BBDA8520E2DF9
+#: /Game/0_Map/BuildScene/Lvl_BuildV2.Lvl_BuildV2:PersistentLevel.BP_OfficeGuy_C_1.Dialogues(0).Dialogues.NameNPC_3_774F854A4C9447F4518BBDA8520E2DF9
+msgctxt ",FEB107BB42DD8E1F65548880B5E76307"
+msgid "Dalek"
+msgstr "Dalek"
+
+#. Key:	771A94B7468C91DC09A91E8C3063F223
+#. SourceLocation:	/Game/0_Map/BuildScene/Lvl_BuildV2.Lvl_BuildV2:PersistentLevel.BP_OfficeGuy_C_1.Dialogues(1).Dialogues.Lines_9_23878CF44E9D35D629285BA10C7AD832
+#: /Game/0_Map/BuildScene/Lvl_BuildV2.Lvl_BuildV2:PersistentLevel.BP_OfficeGuy_C_1.Dialogues(1).Dialogues.Lines_9_23878CF44E9D35D629285BA10C7AD832
+msgctxt ",771A94B7468C91DC09A91E8C3063F223"
+msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor. Cras elementum ultrices diam. Maecenas ligula massa, varius a, semper congue, euismod non, mi.  "
+msgstr "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor. Cras elementum ultrices diam. Maecenas ligula massa, varius a, semper congue, euismod non, mi.  "
+
+#. Key:	A159489C485172F5D6D9A692BBE88933
+#. SourceLocation:	/Game/0_Map/BuildScene/Lvl_BuildV2.Lvl_BuildV2:PersistentLevel.BP_OfficeGuy_C_1.Dialogues(1).Dialogues.NameNPC_3_774F854A4C9447F4518BBDA8520E2DF9
+#: /Game/0_Map/BuildScene/Lvl_BuildV2.Lvl_BuildV2:PersistentLevel.BP_OfficeGuy_C_1.Dialogues(1).Dialogues.NameNPC_3_774F854A4C9447F4518BBDA8520E2DF9
+msgctxt ",A159489C485172F5D6D9A692BBE88933"
+msgid "Dalek"
+msgstr "Dalek"
+
+#. Key:	793756C0404EC95A4F4E34AE53C25FF5
+#. SourceLocation:	/Game/0_Map/BuildScene/Lvl_BuildV2.Lvl_BuildV2:PersistentLevel.BP_OfficeGuy_C_1.Dialogues(3).Dialogues.Lines_9_23878CF44E9D35D629285BA10C7AD832
+#: /Game/0_Map/BuildScene/Lvl_BuildV2.Lvl_BuildV2:PersistentLevel.BP_OfficeGuy_C_1.Dialogues(3).Dialogues.Lines_9_23878CF44E9D35D629285BA10C7AD832
+msgctxt ",793756C0404EC95A4F4E34AE53C25FF5"
+msgid "I am not happy"
+msgstr "I am not happy"
+
+#. Key:	6D11EB0949DCF17AAB6F7491B987D4EF
+#. SourceLocation:	/Game/0_Map/BuildScene/Lvl_BuildV2.Lvl_BuildV2:PersistentLevel.BP_OfficeGuy_C_1.Dialogues(3).Dialogues.NameNPC_3_774F854A4C9447F4518BBDA8520E2DF9
+#: /Game/0_Map/BuildScene/Lvl_BuildV2.Lvl_BuildV2:PersistentLevel.BP_OfficeGuy_C_1.Dialogues(3).Dialogues.NameNPC_3_774F854A4C9447F4518BBDA8520E2DF9
+msgctxt ",6D11EB0949DCF17AAB6F7491B987D4EF"
+msgid "Dalek"
+msgstr "Dalek"
+
+#. Key:	39A5D58243D45887948584ACEEC5F90F
+#. SourceLocation:	/Game/0_Map/BuildScene/Lvl_BuildV3.Lvl_BuildV3:PersistentLevel.BP_OfficeGuy_C_0.Dialogues(0).Dialogues.Lines_9_23878CF44E9D35D629285BA10C7AD832
+#: /Game/0_Map/BuildScene/Lvl_BuildV3.Lvl_BuildV3:PersistentLevel.BP_OfficeGuy_C_0.Dialogues(0).Dialogues.Lines_9_23878CF44E9D35D629285BA10C7AD832
+msgctxt ",39A5D58243D45887948584ACEEC5F90F"
+msgid "Alors, Comment avance ton enquête, cher détective ?"
+msgstr "Alors, Comment avance ton enquête, cher détective ?"
+
+#. Key:	400325D548F90584D09E4BB47333C563
+#. SourceLocation:	/Game/0_Map/BuildScene/Lvl_BuildV3.Lvl_BuildV3:PersistentLevel.BP_OfficeGuy_C_0.Dialogues(0).Dialogues.NameNPC_3_774F854A4C9447F4518BBDA8520E2DF9
+#: /Game/0_Map/BuildScene/Lvl_BuildV3.Lvl_BuildV3:PersistentLevel.BP_OfficeGuy_C_0.Dialogues(0).Dialogues.NameNPC_3_774F854A4C9447F4518BBDA8520E2DF9
+msgctxt ",400325D548F90584D09E4BB47333C563"
+msgid "Masque de Matamore"
+msgstr "Masque de Matamore"
+
+#. Key:	17A8FBD7434AB7457AA256B7854C9B65
+#. SourceLocation:	/Game/0_Map/BuildScene/Lvl_BuildV3.Lvl_BuildV3:PersistentLevel.BP_OfficeGuy_C_0.Dialogues(1).Dialogues.Lines_9_23878CF44E9D35D629285BA10C7AD832
+#: /Game/0_Map/BuildScene/Lvl_BuildV3.Lvl_BuildV3:PersistentLevel.BP_OfficeGuy_C_0.Dialogues(1).Dialogues.Lines_9_23878CF44E9D35D629285BA10C7AD832
+msgctxt ",17A8FBD7434AB7457AA256B7854C9B65"
+msgid "Très bien écoute. Je suis venu à ta rencontre pour te poser quelques questions, \r\nalors je compte sur toi pour y répondre avec le plus grand sérieux... "
+msgstr "Très bien écoute. Je suis venu à ta rencontre pour te poser quelques questions, \r\nalors je compte sur toi pour y répondre avec le plus grand sérieux... "
+
+#. Key:	908DCC8D4F703EE0CE234B86E272986E
+#. SourceLocation:	/Game/0_Map/BuildScene/Lvl_BuildV3.Lvl_BuildV3:PersistentLevel.BP_OfficeGuy_C_0.Dialogues(1).Dialogues.NameNPC_3_774F854A4C9447F4518BBDA8520E2DF9
+#: /Game/0_Map/BuildScene/Lvl_BuildV3.Lvl_BuildV3:PersistentLevel.BP_OfficeGuy_C_0.Dialogues(1).Dialogues.NameNPC_3_774F854A4C9447F4518BBDA8520E2DF9
+msgctxt ",908DCC8D4F703EE0CE234B86E272986E"
+msgid "Alessandro Bellini"
+msgstr "Alessandro Bellini"
+
+#. Key:	1F74AAB2464B8B5E50A62D90AA5FD874
+#. SourceLocation:	/Game/0_Map/BuildScene/Lvl_BuildV3.Lvl_BuildV3:PersistentLevel.BP_OfficeGuy_C_0.Dialogues(10).Dialogues.Lines_9_23878CF44E9D35D629285BA10C7AD832
+#: /Game/0_Map/BuildScene/Lvl_BuildV3.Lvl_BuildV3:PersistentLevel.BP_OfficeGuy_C_0.Dialogues(10).Dialogues.Lines_9_23878CF44E9D35D629285BA10C7AD832
+msgctxt ",1F74AAB2464B8B5E50A62D90AA5FD874"
+msgid "Cela ne te regarde pas. Sur ce, je vais continuer mon enquête, à plus tard Luca. "
+msgstr "Cela ne te regarde pas. Sur ce, je vais continuer mon enquête, à plus tard Luca. "
+
+#. Key:	A34AF8B345431B9C8AA645AADFA0B7D1
+#. SourceLocation:	/Game/0_Map/BuildScene/Lvl_BuildV3.Lvl_BuildV3:PersistentLevel.BP_OfficeGuy_C_0.Dialogues(10).Dialogues.NameNPC_3_774F854A4C9447F4518BBDA8520E2DF9
+#: /Game/0_Map/BuildScene/Lvl_BuildV3.Lvl_BuildV3:PersistentLevel.BP_OfficeGuy_C_0.Dialogues(10).Dialogues.NameNPC_3_774F854A4C9447F4518BBDA8520E2DF9
+msgctxt ",A34AF8B345431B9C8AA645AADFA0B7D1"
+msgid "Alessandro Bellini "
+msgstr "Alessandro Bellini "
+
+#. Key:	10E113554891BF7FAEF5638B7248A3DC
+#. SourceLocation:	/Game/0_Map/BuildScene/Lvl_BuildV3.Lvl_BuildV3:PersistentLevel.BP_OfficeGuy_C_0.Dialogues(3).Dialogues.Lines_9_23878CF44E9D35D629285BA10C7AD832
+#: /Game/0_Map/BuildScene/Lvl_BuildV3.Lvl_BuildV3:PersistentLevel.BP_OfficeGuy_C_0.Dialogues(3).Dialogues.Lines_9_23878CF44E9D35D629285BA10C7AD832
+msgctxt ",10E113554891BF7FAEF5638B7248A3DC"
+msgid "Je... J'peux pas être sérieux à tes questions, depuis qu'on est arrivés y a un truc qui tourne pas rond. Tu ne t'en es pas rendu compte toi Alessandro le grand détective parfait?"
+msgstr "Je... J'peux pas être sérieux à tes questions, depuis qu'on est arrivés y a un truc qui tourne pas rond. Tu ne t'en es pas rendu compte toi Alessandro le grand détective parfait?"
+
+#. Key:	F4C411724FAD443C26B739AF5FB1ADEF
+#. SourceLocation:	/Game/0_Map/BuildScene/Lvl_BuildV3.Lvl_BuildV3:PersistentLevel.BP_OfficeGuy_C_0.Dialogues(3).Dialogues.NameNPC_3_774F854A4C9447F4518BBDA8520E2DF9
+#: /Game/0_Map/BuildScene/Lvl_BuildV3.Lvl_BuildV3:PersistentLevel.BP_OfficeGuy_C_0.Dialogues(3).Dialogues.NameNPC_3_774F854A4C9447F4518BBDA8520E2DF9
+msgctxt ",F4C411724FAD443C26B739AF5FB1ADEF"
+msgid "Masque de Matamore"
+msgstr "Masque de Matamore"
+
+#. Key:	913235C744E2FB109B7385B42DEFFD9C
+#. SourceLocation:	/Game/0_Map/BuildScene/Lvl_BuildV3.Lvl_BuildV3:PersistentLevel.BP_OfficeGuy_C_0.Dialogues(4).Dialogues.Lines_9_23878CF44E9D35D629285BA10C7AD832
+#: /Game/0_Map/BuildScene/Lvl_BuildV3.Lvl_BuildV3:PersistentLevel.BP_OfficeGuy_C_0.Dialogues(4).Dialogues.Lines_9_23878CF44E9D35D629285BA10C7AD832
+msgctxt ",913235C744E2FB109B7385B42DEFFD9C"
+msgid "Respire, tout va bien, je suis là pour t'aider à sortir de ce lieu maudit. (il se calme) Voilà, super ! \r\nMaintenant, j'aimerais savoir, qui es tu derrière ton masque de Matamore?"
+msgstr "Respire, tout va bien, je suis là pour t'aider à sortir de ce lieu maudit. (il se calme) Voilà, super ! \r\nMaintenant, j'aimerais savoir, qui es tu derrière ton masque de Matamore?"
+
+#. Key:	CE55EA5E457F40120FAF0DA1C53EE75F
+#. SourceLocation:	/Game/0_Map/BuildScene/Lvl_BuildV3.Lvl_BuildV3:PersistentLevel.BP_OfficeGuy_C_0.Dialogues(4).Dialogues.NameNPC_3_774F854A4C9447F4518BBDA8520E2DF9
+#: /Game/0_Map/BuildScene/Lvl_BuildV3.Lvl_BuildV3:PersistentLevel.BP_OfficeGuy_C_0.Dialogues(4).Dialogues.NameNPC_3_774F854A4C9447F4518BBDA8520E2DF9
+msgctxt ",CE55EA5E457F40120FAF0DA1C53EE75F"
+msgid "Alessandro Bellini "
+msgstr "Alessandro Bellini "
+
+#. Key:	B92105194B0A5A69337524BE637F66D4
+#. SourceLocation:	/Game/0_Map/BuildScene/Lvl_BuildV3.Lvl_BuildV3:PersistentLevel.BP_OfficeGuy_C_0.Dialogues(5).Dialogues.Lines_9_23878CF44E9D35D629285BA10C7AD832
+#: /Game/0_Map/BuildScene/Lvl_BuildV3.Lvl_BuildV3:PersistentLevel.BP_OfficeGuy_C_0.Dialogues(5).Dialogues.Lines_9_23878CF44E9D35D629285BA10C7AD832
+msgctxt ",B92105194B0A5A69337524BE637F66D4"
+msgid "Je suis Luca Matadore, un agent de sécurité, j'ai 28 ans. \r\nEuh... Que veux tu savoir de plus sur moi ?"
+msgstr "Je suis Luca Matadore, un agent de sécurité, j'ai 28 ans. \r\nEuh... Que veux tu savoir de plus sur moi ?"
+
+#. Key:	E62BB1DE4060E64825317B8ED39DEE9A
+#. SourceLocation:	/Game/0_Map/BuildScene/Lvl_BuildV3.Lvl_BuildV3:PersistentLevel.BP_OfficeGuy_C_0.Dialogues(5).Dialogues.NameNPC_3_774F854A4C9447F4518BBDA8520E2DF9
+#: /Game/0_Map/BuildScene/Lvl_BuildV3.Lvl_BuildV3:PersistentLevel.BP_OfficeGuy_C_0.Dialogues(5).Dialogues.NameNPC_3_774F854A4C9447F4518BBDA8520E2DF9
+msgctxt ",E62BB1DE4060E64825317B8ED39DEE9A"
+msgid "Luca Matadore "
+msgstr "Luca Matadore "
+
+#. Key:	E95357CD443ECE790BA40B882DEBC59C
+#. SourceLocation:	/Game/0_Map/BuildScene/Lvl_BuildV3.Lvl_BuildV3:PersistentLevel.BP_OfficeGuy_C_0.Dialogues(6).Dialogues.Lines_9_23878CF44E9D35D629285BA10C7AD832
+#: /Game/0_Map/BuildScene/Lvl_BuildV3.Lvl_BuildV3:PersistentLevel.BP_OfficeGuy_C_0.Dialogues(6).Dialogues.Lines_9_23878CF44E9D35D629285BA10C7AD832
+msgctxt ",E95357CD443ECE790BA40B882DEBC59C"
+msgid "D'accord Luca... Peux tu me citer ta lettre d'invitation à cette représentation théâtrale ?"
+msgstr "D'accord Luca... Peux tu me citer ta lettre d'invitation à cette représentation théâtrale ?"
+
+#. Key:	5AEE61944F760E0E9C49B6BF271666F1
+#. SourceLocation:	/Game/0_Map/BuildScene/Lvl_BuildV3.Lvl_BuildV3:PersistentLevel.BP_OfficeGuy_C_0.Dialogues(6).Dialogues.NameNPC_3_774F854A4C9447F4518BBDA8520E2DF9
+#: /Game/0_Map/BuildScene/Lvl_BuildV3.Lvl_BuildV3:PersistentLevel.BP_OfficeGuy_C_0.Dialogues(6).Dialogues.NameNPC_3_774F854A4C9447F4518BBDA8520E2DF9
+msgctxt ",5AEE61944F760E0E9C49B6BF271666F1"
+msgid "Alessandro Bellini "
+msgstr "Alessandro Bellini "
+
+#. Key:	5BAEFD4F45940D9885F9CAB0095674C5
+#. SourceLocation:	/Game/0_Map/BuildScene/Lvl_BuildV3.Lvl_BuildV3:PersistentLevel.BP_OfficeGuy_C_0.Dialogues(7).Dialogues.Lines_9_23878CF44E9D35D629285BA10C7AD832
+#: /Game/0_Map/BuildScene/Lvl_BuildV3.Lvl_BuildV3:PersistentLevel.BP_OfficeGuy_C_0.Dialogues(7).Dialogues.Lines_9_23878CF44E9D35D629285BA10C7AD832
+msgctxt ",5BAEFD4F45940D9885F9CAB0095674C5"
+msgid "Ah, la lettre que j'ai reçue ? Ok pas de soucis je vais te la citer, justement je l'ai avec moi :\r\n \"Cher Luca, j'aimerais vraiment que tu sois présent\r\nlors de la dernière représentation au théâtre de Rome. ça se passera le 12 janvier à 20 heures. Je sais que c'est difficile pour toi ces derniers temps... Alors dis toi que cette pièce de théâtre te permettra de\r\ndécompresser un moment avec moi. Je te promets que tu seras enfin reconnu comme celui \r\nque tu prétends être dans tes récits. Si tu es intrigué par cette invitation de dernière minute je l'admets, \r\nn'hésite pas à me rejoindre à ce lieu et cette heure, je me ferais une joie de te montrer cette pièce de toute beauté.\"\r\nC'est tout ce qui est écrit, si tu veux savoir, la lettre n'est même pas signée et je n'ai aucun ami qui aime le théâtre. \r\nToute façon, je savais que cette histoire était louche. Oh là là j'espère qu'il va pas se passer quelque chose de grave et que je vais devoir montrer mes compétences en survie..."
+msgstr "Ah, la lettre que j'ai reçue ? Ok pas de soucis je vais te la citer, justement je l'ai avec moi :\r\n \"Cher Luca, j'aimerais vraiment que tu sois présent\r\nlors de la dernière représentation au théâtre de Rome. ça se passera le 12 janvier à 20 heures. Je sais que c'est difficile pour toi ces derniers temps... Alors dis toi que cette pièce de théâtre te permettra de\r\ndécompresser un moment avec moi. Je te promets que tu seras enfin reconnu comme celui \r\nque tu prétends être dans tes récits. Si tu es intrigué par cette invitation de dernière minute je l'admets, \r\nn'hésite pas à me rejoindre à ce lieu et cette heure, je me ferais une joie de te montrer cette pièce de toute beauté.\"\r\nC'est tout ce qui est écrit, si tu veux savoir, la lettre n'est même pas signée et je n'ai aucun ami qui aime le théâtre. \r\nToute façon, je savais que cette histoire était louche. Oh là là j'espère qu'il va pas se passer quelque chose de grave et que je vais devoir montrer mes compétences en survie..."
+
+#. Key:	D6171AF641ADDA80C50C69B4FDC2A044
+#. SourceLocation:	/Game/0_Map/BuildScene/Lvl_BuildV3.Lvl_BuildV3:PersistentLevel.BP_OfficeGuy_C_0.Dialogues(7).Dialogues.NameNPC_3_774F854A4C9447F4518BBDA8520E2DF9
+#: /Game/0_Map/BuildScene/Lvl_BuildV3.Lvl_BuildV3:PersistentLevel.BP_OfficeGuy_C_0.Dialogues(7).Dialogues.NameNPC_3_774F854A4C9447F4518BBDA8520E2DF9
+msgctxt ",D6171AF641ADDA80C50C69B4FDC2A044"
+msgid "Luca Matadore "
+msgstr "Luca Matadore "
+
+#. Key:	47ADE74B4DF3AF5689C5589565FAF013
+#. SourceLocation:	/Game/0_Map/BuildScene/Lvl_BuildV3.Lvl_BuildV3:PersistentLevel.BP_OfficeGuy_C_0.Dialogues(8).Dialogues.Lines_9_23878CF44E9D35D629285BA10C7AD832
+#: /Game/0_Map/BuildScene/Lvl_BuildV3.Lvl_BuildV3:PersistentLevel.BP_OfficeGuy_C_0.Dialogues(8).Dialogues.Lines_9_23878CF44E9D35D629285BA10C7AD832
+msgctxt ",47ADE74B4DF3AF5689C5589565FAF013"
+msgid "Ok, merci des informations Luca, au fait il y a un truc que je me demandais depuis tout à l'heure,\r\npourquoi t'es là dedans depuis que t'es réveillé ?"
+msgstr "Ok, merci des informations Luca, au fait il y a un truc que je me demandais depuis tout à l'heure,\r\npourquoi t'es là dedans depuis que t'es réveillé ?"
+
+#. Key:	485DDB1E486B18DA124B04A3BFDB6DBC
+#. SourceLocation:	/Game/0_Map/BuildScene/Lvl_BuildV3.Lvl_BuildV3:PersistentLevel.BP_OfficeGuy_C_0.Dialogues(8).Dialogues.NameNPC_3_774F854A4C9447F4518BBDA8520E2DF9
+#: /Game/0_Map/BuildScene/Lvl_BuildV3.Lvl_BuildV3:PersistentLevel.BP_OfficeGuy_C_0.Dialogues(8).Dialogues.NameNPC_3_774F854A4C9447F4518BBDA8520E2DF9
+msgctxt ",485DDB1E486B18DA124B04A3BFDB6DBC"
+msgid "Alessandro Bellini "
+msgstr "Alessandro Bellini "
+
+#. Key:	6731012648AA5FCFB39284B8AC3DDEA6
+#. SourceLocation:	/Game/0_Map/BuildScene/Lvl_BuildV3.Lvl_BuildV3:PersistentLevel.BP_OfficeGuy_C_0.Dialogues(9).Dialogues.Lines_9_23878CF44E9D35D629285BA10C7AD832
+#: /Game/0_Map/BuildScene/Lvl_BuildV3.Lvl_BuildV3:PersistentLevel.BP_OfficeGuy_C_0.Dialogues(9).Dialogues.Lines_9_23878CF44E9D35D629285BA10C7AD832
+msgctxt ",6731012648AA5FCFB39284B8AC3DDEA6"
+msgid "(ton plus confiant) Je me suis mis là parce que je voulais m'isoler pour réfléchir à cette situation puis enquêter sur \r\nce qui se passe. On dirait bien que tu m'as devancé alors je vais peut-être... pouvoir sortir... enquêter sur cette pièce \r\naprès que tu sois sorti... D'ailleurs, comment tu sais que j'étais là?"
+msgstr "(ton plus confiant) Je me suis mis là parce que je voulais m'isoler pour réfléchir à cette situation puis enquêter sur \r\nce qui se passe. On dirait bien que tu m'as devancé alors je vais peut-être... pouvoir sortir... enquêter sur cette pièce \r\naprès que tu sois sorti... D'ailleurs, comment tu sais que j'étais là?"
+
+#. Key:	08EED87E488906CD260CFA99A14163D4
+#. SourceLocation:	/Game/0_Map/BuildScene/Lvl_BuildV3.Lvl_BuildV3:PersistentLevel.BP_OfficeGuy_C_0.Dialogues(9).Dialogues.NameNPC_3_774F854A4C9447F4518BBDA8520E2DF9
+#: /Game/0_Map/BuildScene/Lvl_BuildV3.Lvl_BuildV3:PersistentLevel.BP_OfficeGuy_C_0.Dialogues(9).Dialogues.NameNPC_3_774F854A4C9447F4518BBDA8520E2DF9
+msgctxt ",08EED87E488906CD260CFA99A14163D4"
+msgid "Luca Matadore"
+msgstr "Luca Matadore"
+
+#. Key:	4D6D46CA4E0855BDDB443B98DD6F4D3B
+#. SourceLocation:	/Game/0_Map/BuildScene/Lvl_BuildV4.Lvl_BuildV4:PersistentLevel.BP_BlockAccueil_C_2.DoorIsLockedLog
+#: /Game/0_Map/BuildScene/Lvl_BuildV4.Lvl_BuildV4:PersistentLevel.BP_BlockAccueil_C_2.DoorIsLockedLog
+msgctxt ",4D6D46CA4E0855BDDB443B98DD6F4D3B"
+msgid "The door is closed, I can find another way around"
+msgstr "The door is closed, I can find another way around"
+
+#. Key:	A1A396A14BBF1A27CBE2578D733F4DB1
+#. SourceLocation:	/Game/0_Map/BuildScene/Lvl_BuildV4.Lvl_BuildV4:PersistentLevel.BP_HiddenMessage_C_0.Hidden1Blue
+#: /Game/0_Map/BuildScene/Lvl_BuildV4.Lvl_BuildV4:PersistentLevel.BP_HiddenMessage_C_0.Hidden1Blue
+msgctxt ",A1A396A14BBF1A27CBE2578D733F4DB1"
+msgid "This year "
+msgstr "This year "
+
+#. Key:	0C7234AC48848D454A57D083646013A4
+#. SourceLocation:	/Game/0_Map/BuildScene/Lvl_BuildV4.Lvl_BuildV4:PersistentLevel.BP_HiddenMessage_C_0.Hidden2Yellow
+#: /Game/0_Map/BuildScene/Lvl_BuildV4.Lvl_BuildV4:PersistentLevel.BP_HiddenMessage_C_0.Hidden2Yellow
+msgctxt ",0C7234AC48848D454A57D083646013A4"
+msgid "It all began "
+msgstr "It all began "
+
+#. Key:	7C05DD824946EAF53814CD9D688EF896
+#. SourceLocation:	/Game/0_Map/BuildScene/Lvl_BuildV4.Lvl_BuildV4:PersistentLevel.BP_HiddenMessage_C_0.Hidden3Green
+#: /Game/0_Map/BuildScene/Lvl_BuildV4.Lvl_BuildV4:PersistentLevel.BP_HiddenMessage_C_0.Hidden3Green
+msgctxt ",7C05DD824946EAF53814CD9D688EF896"
+msgid "This year it all began"
+msgstr "This year it all began"
+
+#. Key:	441C130F44CD72EE74E97F8500DD6974
+#. SourceLocation:	/Game/0_Map/BuildScene/Lvl_BuildV4.Lvl_BuildV4:PersistentLevel.BP_HiddenMessage_C_0.VisibleMessage
+#: /Game/0_Map/BuildScene/Lvl_BuildV4.Lvl_BuildV4:PersistentLevel.BP_HiddenMessage_C_0.VisibleMessage
+msgctxt ",441C130F44CD72EE74E97F8500DD6974"
+msgid "You have to give up."
+msgstr "You have to give up."
+
+#. Key:	E2D83F6242E64094A9AC44B85882CCA0
+#. SourceLocation:	/Game/0_Map/BuildScene/Lvl_BuildV4.Lvl_BuildV4:PersistentLevel.BP_OfficeGuy_C_0.Dialogues(0).Dialogues.Lines_9_23878CF44E9D35D629285BA10C7AD832
+#: /Game/0_Map/BuildScene/Lvl_BuildV4.Lvl_BuildV4:PersistentLevel.BP_OfficeGuy_C_0.Dialogues(0).Dialogues.Lines_9_23878CF44E9D35D629285BA10C7AD832
+msgctxt ",E2D83F6242E64094A9AC44B85882CCA0"
+msgid "So, how's the investigation going? "
+msgstr "So, how's the investigation going? "
+
+#. Key:	F0451A884C6EAB1DC1C237B42CEDFCC5
+#. SourceLocation:	/Game/0_Map/BuildScene/Lvl_BuildV4.Lvl_BuildV4:PersistentLevel.BP_OfficeGuy_C_0.Dialogues(0).Dialogues.NameNPC_3_774F854A4C9447F4518BBDA8520E2DF9
+#: /Game/0_Map/BuildScene/Lvl_BuildV4.Lvl_BuildV4:PersistentLevel.BP_OfficeGuy_C_0.Dialogues(0).Dialogues.NameNPC_3_774F854A4C9447F4518BBDA8520E2DF9
+msgctxt ",F0451A884C6EAB1DC1C237B42CEDFCC5"
+msgid "Matamore's Mask"
+msgstr "Matamore's Mask"
+
+#. Key:	B1FA510B4F6F58BD98B20DB57CEC378A
+#. SourceLocation:	/Game/0_Map/BuildScene/Lvl_BuildV4.Lvl_BuildV4:PersistentLevel.BP_OfficeGuy_C_0.Dialogues(1).Dialogues.Lines_9_23878CF44E9D35D629285BA10C7AD832
+#: /Game/0_Map/BuildScene/Lvl_BuildV4.Lvl_BuildV4:PersistentLevel.BP_OfficeGuy_C_0.Dialogues(1).Dialogues.Lines_9_23878CF44E9D35D629285BA10C7AD832
+msgctxt ",B1FA510B4F6F58BD98B20DB57CEC378A"
+msgid "Listen, i came to see you to ask you a few questions, so I'm counting on you to answer them \r\nwith the utmost concentration..."
+msgstr "Listen, i came to see you to ask you a few questions, so I'm counting on you to answer them \r\nwith the utmost concentration..."
+
+#. Key:	730C8E804C7BA607A535F8B38609E06C
+#. SourceLocation:	/Game/0_Map/BuildScene/Lvl_BuildV4.Lvl_BuildV4:PersistentLevel.BP_OfficeGuy_C_0.Dialogues(1).Dialogues.NameNPC_3_774F854A4C9447F4518BBDA8520E2DF9
+#: /Game/0_Map/BuildScene/Lvl_BuildV4.Lvl_BuildV4:PersistentLevel.BP_OfficeGuy_C_0.Dialogues(1).Dialogues.NameNPC_3_774F854A4C9447F4518BBDA8520E2DF9
+msgctxt ",730C8E804C7BA607A535F8B38609E06C"
+msgid "Alessandro Bellini"
+msgstr "Alessandro Bellini"
+
+#. Key:	BFF83AD642C57854C19E498D80C70098
+#. SourceLocation:	/Game/0_Map/BuildScene/Lvl_BuildV4.Lvl_BuildV4:PersistentLevel.BP_OfficeGuy_C_0.Dialogues(10).Dialogues.Lines_9_23878CF44E9D35D629285BA10C7AD832
+#: /Game/0_Map/BuildScene/Lvl_BuildV4.Lvl_BuildV4:PersistentLevel.BP_OfficeGuy_C_0.Dialogues(10).Dialogues.Lines_9_23878CF44E9D35D629285BA10C7AD832
+msgctxt ",BFF83AD642C57854C19E498D80C70098"
+msgid "..."
+msgstr "..."
+
+#. Key:	2582616642BA66CEF07C0D8CD33FEEE7
+#. SourceLocation:	/Game/0_Map/BuildScene/Lvl_BuildV4.Lvl_BuildV4:PersistentLevel.BP_OfficeGuy_C_0.Dialogues(10).Dialogues.NameNPC_3_774F854A4C9447F4518BBDA8520E2DF9
+#: /Game/0_Map/BuildScene/Lvl_BuildV4.Lvl_BuildV4:PersistentLevel.BP_OfficeGuy_C_0.Dialogues(10).Dialogues.NameNPC_3_774F854A4C9447F4518BBDA8520E2DF9
+msgctxt ",2582616642BA66CEF07C0D8CD33FEEE7"
+msgid "Luca Matadore"
+msgstr "Luca Matadore"
+
+#. Key:	8C598D9E48A42C9A23B242BEC1971BB1
+#. SourceLocation:	/Game/0_Map/BuildScene/Lvl_BuildV4.Lvl_BuildV4:PersistentLevel.BP_OfficeGuy_C_0.Dialogues(2).Dialogues.Lines_9_23878CF44E9D35D629285BA10C7AD832
+#: /Game/0_Map/BuildScene/Lvl_BuildV4.Lvl_BuildV4:PersistentLevel.BP_OfficeGuy_C_0.Dialogues(2).Dialogues.Lines_9_23878CF44E9D35D629285BA10C7AD832
+msgctxt ",8C598D9E48A42C9A23B242BEC1971BB1"
+msgid "I assure you it's going to be difficult to stay focused. \r\nEver since we arrived, something's been off. Haven't you noticed, Alessandro, the great detective?"
+msgstr "I assure you it's going to be difficult to stay focused. \r\nEver since we arrived, something's been off. Haven't you noticed, Alessandro, the great detective?"
+
+#. Key:	C996949B4346A3AA7597CF8B7B63EAFA
+#. SourceLocation:	/Game/0_Map/BuildScene/Lvl_BuildV4.Lvl_BuildV4:PersistentLevel.BP_OfficeGuy_C_0.Dialogues(2).Dialogues.NameNPC_3_774F854A4C9447F4518BBDA8520E2DF9
+#: /Game/0_Map/BuildScene/Lvl_BuildV4.Lvl_BuildV4:PersistentLevel.BP_OfficeGuy_C_0.Dialogues(2).Dialogues.NameNPC_3_774F854A4C9447F4518BBDA8520E2DF9
+msgctxt ",C996949B4346A3AA7597CF8B7B63EAFA"
+msgid "Matamore's Mask"
+msgstr "Matamore's Mask"
+
+#. Key:	152CDB324F3EF19D3BCFEEB795153D0D
+#. SourceLocation:	/Game/0_Map/BuildScene/Lvl_BuildV4.Lvl_BuildV4:PersistentLevel.BP_OfficeGuy_C_0.Dialogues(3).Dialogues.Lines_9_23878CF44E9D35D629285BA10C7AD832
+#: /Game/0_Map/BuildScene/Lvl_BuildV4.Lvl_BuildV4:PersistentLevel.BP_OfficeGuy_C_0.Dialogues(3).Dialogues.Lines_9_23878CF44E9D35D629285BA10C7AD832
+msgctxt ",152CDB324F3EF19D3BCFEEB795153D0D"
+msgid "Breathe, everything's fine, I'm here to help you get out of this cursed place.\r\nGreat! Now I'd like to know who you are behind your Matamore mask?"
+msgstr "Breathe, everything's fine, I'm here to help you get out of this cursed place.\r\nGreat! Now I'd like to know who you are behind your Matamore mask?"
+
+#. Key:	B9755112474AF641C4E093B27375B877
+#. SourceLocation:	/Game/0_Map/BuildScene/Lvl_BuildV4.Lvl_BuildV4:PersistentLevel.BP_OfficeGuy_C_0.Dialogues(3).Dialogues.NameNPC_3_774F854A4C9447F4518BBDA8520E2DF9
+#: /Game/0_Map/BuildScene/Lvl_BuildV4.Lvl_BuildV4:PersistentLevel.BP_OfficeGuy_C_0.Dialogues(3).Dialogues.NameNPC_3_774F854A4C9447F4518BBDA8520E2DF9
+msgctxt ",B9755112474AF641C4E093B27375B877"
+msgid "Alessandro Bellini "
+msgstr "Alessandro Bellini "
+
+#. Key:	253E43394E493BFC3AB3A9ABAC1F79C2
+#. SourceLocation:	/Game/0_Map/BuildScene/Lvl_BuildV4.Lvl_BuildV4:PersistentLevel.BP_OfficeGuy_C_0.Dialogues(4).Dialogues.Lines_9_23878CF44E9D35D629285BA10C7AD832
+#: /Game/0_Map/BuildScene/Lvl_BuildV4.Lvl_BuildV4:PersistentLevel.BP_OfficeGuy_C_0.Dialogues(4).Dialogues.Lines_9_23878CF44E9D35D629285BA10C7AD832
+msgctxt ",253E43394E493BFC3AB3A9ABAC1F79C2"
+msgid "I'm Luca Matadore, a security guard, I'm 28 years old. Um... What else would you like to know about me?"
+msgstr "I'm Luca Matadore, a security guard, I'm 28 years old. Um... What else would you like to know about me?"
+
+#. Key:	76492D9B486D16A1E010EFB092099A5D
+#. SourceLocation:	/Game/0_Map/BuildScene/Lvl_BuildV4.Lvl_BuildV4:PersistentLevel.BP_OfficeGuy_C_0.Dialogues(4).Dialogues.NameNPC_3_774F854A4C9447F4518BBDA8520E2DF9
+#: /Game/0_Map/BuildScene/Lvl_BuildV4.Lvl_BuildV4:PersistentLevel.BP_OfficeGuy_C_0.Dialogues(4).Dialogues.NameNPC_3_774F854A4C9447F4518BBDA8520E2DF9
+msgctxt ",76492D9B486D16A1E010EFB092099A5D"
+msgid "Luca Matadore "
+msgstr "Luca Matadore "
+
+#. Key:	A61DCCF8481B8633E3F33592910DB20C
+#. SourceLocation:	/Game/0_Map/BuildScene/Lvl_BuildV4.Lvl_BuildV4:PersistentLevel.BP_OfficeGuy_C_0.Dialogues(5).Dialogues.Lines_9_23878CF44E9D35D629285BA10C7AD832
+#: /Game/0_Map/BuildScene/Lvl_BuildV4.Lvl_BuildV4:PersistentLevel.BP_OfficeGuy_C_0.Dialogues(5).Dialogues.Lines_9_23878CF44E9D35D629285BA10C7AD832
+msgctxt ",A61DCCF8481B8633E3F33592910DB20C"
+msgid "Okay, Luca... Can you show me your invitation letter to this play?"
+msgstr "Okay, Luca... Can you show me your invitation letter to this play?"
+
+#. Key:	7B52BF8A4DA73ACD29E7BEA3CD1FA77B
+#. SourceLocation:	/Game/0_Map/BuildScene/Lvl_BuildV4.Lvl_BuildV4:PersistentLevel.BP_OfficeGuy_C_0.Dialogues(5).Dialogues.NameNPC_3_774F854A4C9447F4518BBDA8520E2DF9
+#: /Game/0_Map/BuildScene/Lvl_BuildV4.Lvl_BuildV4:PersistentLevel.BP_OfficeGuy_C_0.Dialogues(5).Dialogues.NameNPC_3_774F854A4C9447F4518BBDA8520E2DF9
+msgctxt ",7B52BF8A4DA73ACD29E7BEA3CD1FA77B"
+msgid "Alessandro Bellini "
+msgstr "Alessandro Bellini "
+
+#. Key:	4C1554F44ABDFBEAF641258CD354C39D
+#. SourceLocation:	/Game/0_Map/BuildScene/Lvl_BuildV4.Lvl_BuildV4:PersistentLevel.BP_OfficeGuy_C_0.Dialogues(6).Dialogues.Lines_9_23878CF44E9D35D629285BA10C7AD832
+#: /Game/0_Map/BuildScene/Lvl_BuildV4.Lvl_BuildV4:PersistentLevel.BP_OfficeGuy_C_0.Dialogues(6).Dialogues.Lines_9_23878CF44E9D35D629285BA10C7AD832
+msgctxt ",4C1554F44ABDFBEAF641258CD354C39D"
+msgid "Ah, the letter I received? Okay, I'll quote it to you, I happen to have it with me: "
+msgstr "Ah, the letter I received? Okay, I'll quote it to you, I happen to have it with me: "
+
+#. Key:	B482AAD84ABD4C78B039E99D649FBFCA
+#. SourceLocation:	/Game/0_Map/BuildScene/Lvl_BuildV4.Lvl_BuildV4:PersistentLevel.BP_OfficeGuy_C_0.Dialogues(6).Dialogues.NameNPC_3_774F854A4C9447F4518BBDA8520E2DF9
+#: /Game/0_Map/BuildScene/Lvl_BuildV4.Lvl_BuildV4:PersistentLevel.BP_OfficeGuy_C_0.Dialogues(6).Dialogues.NameNPC_3_774F854A4C9447F4518BBDA8520E2DF9
+msgctxt ",B482AAD84ABD4C78B039E99D649FBFCA"
+msgid "Luca Matadore "
+msgstr "Luca Matadore "
+
+#. Key:	3A9A23644F4918585594D9B28D1A48D9
+#. SourceLocation:	/Game/0_Map/BuildScene/Lvl_BuildV4.Lvl_BuildV4:PersistentLevel.BP_OfficeGuy_C_0.Dialogues(7).Dialogues.Lines_9_23878CF44E9D35D629285BA10C7AD832
+#: /Game/0_Map/BuildScene/Lvl_BuildV4.Lvl_BuildV4:PersistentLevel.BP_OfficeGuy_C_0.Dialogues(7).Dialogues.Lines_9_23878CF44E9D35D629285BA10C7AD832
+msgctxt ",3A9A23644F4918585594D9B28D1A48D9"
+msgid "\"Dear Luca, I would really like you to be present at the final performance at the theater in Rome. I know it's been difficult for you lately... I promise you that you will finally be recognized as the person you claim to be in your stories.“ "
+msgstr "\"Dear Luca, I would really like you to be present at the final performance at the theater in Rome. I know it's been difficult for you lately... I promise you that you will finally be recognized as the person you claim to be in your stories.“ "
+
+#. Key:	0533E0E34608255A5564A79A654C732B
+#. SourceLocation:	/Game/0_Map/BuildScene/Lvl_BuildV4.Lvl_BuildV4:PersistentLevel.BP_OfficeGuy_C_0.Dialogues(7).Dialogues.NameNPC_3_774F854A4C9447F4518BBDA8520E2DF9
+#: /Game/0_Map/BuildScene/Lvl_BuildV4.Lvl_BuildV4:PersistentLevel.BP_OfficeGuy_C_0.Dialogues(7).Dialogues.NameNPC_3_774F854A4C9447F4518BBDA8520E2DF9
+msgctxt ",0533E0E34608255A5564A79A654C732B"
+msgid "Luca Matadore"
+msgstr "Luca Matadore"
+
+#. Key:	A3DD76694C8506E52C1869B501A50321
+#. SourceLocation:	/Game/0_Map/BuildScene/Lvl_BuildV4.Lvl_BuildV4:PersistentLevel.BP_OfficeGuy_C_0.Dialogues(8).Dialogues.Lines_9_23878CF44E9D35D629285BA10C7AD832
+#: /Game/0_Map/BuildScene/Lvl_BuildV4.Lvl_BuildV4:PersistentLevel.BP_OfficeGuy_C_0.Dialogues(8).Dialogues.Lines_9_23878CF44E9D35D629285BA10C7AD832
+msgctxt ",A3DD76694C8506E52C1869B501A50321"
+msgid "That's all it says. If you want to know, the letter is signed ”a friend who wishes you well.\" I don't have any friends who like the theater... Anyway, I knew this story was fishy..."
+msgstr "That's all it says. If you want to know, the letter is signed ”a friend who wishes you well.\" I don't have any friends who like the theater... Anyway, I knew this story was fishy..."
+
+#. Key:	0751A54145A0756DBBA0B6A433CE344F
+#. SourceLocation:	/Game/0_Map/BuildScene/Lvl_BuildV4.Lvl_BuildV4:PersistentLevel.BP_OfficeGuy_C_0.Dialogues(8).Dialogues.NameNPC_3_774F854A4C9447F4518BBDA8520E2DF9
+#: /Game/0_Map/BuildScene/Lvl_BuildV4.Lvl_BuildV4:PersistentLevel.BP_OfficeGuy_C_0.Dialogues(8).Dialogues.NameNPC_3_774F854A4C9447F4518BBDA8520E2DF9
+msgctxt ",0751A54145A0756DBBA0B6A433CE344F"
+msgid "Luca Matadore"
+msgstr "Luca Matadore"
+
+#. Key:	BE28312041F5A2101686CA9CB65F98A6
+#. SourceLocation:	/Game/0_Map/BuildScene/Lvl_BuildV4.Lvl_BuildV4:PersistentLevel.BP_OfficeGuy_C_0.Dialogues(9).Dialogues.Lines_9_23878CF44E9D35D629285BA10C7AD832
+#: /Game/0_Map/BuildScene/Lvl_BuildV4.Lvl_BuildV4:PersistentLevel.BP_OfficeGuy_C_0.Dialogues(9).Dialogues.Lines_9_23878CF44E9D35D629285BA10C7AD832
+msgctxt ",BE28312041F5A2101686CA9CB65F98A6"
+msgid "Okay, thanks for the information, Luca.\r\nI'll continue my investigation."
+msgstr "Okay, thanks for the information, Luca.\r\nI'll continue my investigation."
+
+#. Key:	5FD963714FFD2F6597AB5CAB6E5052C3
+#. SourceLocation:	/Game/0_Map/BuildScene/Lvl_BuildV4.Lvl_BuildV4:PersistentLevel.BP_OfficeGuy_C_0.Dialogues(9).Dialogues.NameNPC_3_774F854A4C9447F4518BBDA8520E2DF9
+#: /Game/0_Map/BuildScene/Lvl_BuildV4.Lvl_BuildV4:PersistentLevel.BP_OfficeGuy_C_0.Dialogues(9).Dialogues.NameNPC_3_774F854A4C9447F4518BBDA8520E2DF9
+msgctxt ",5FD963714FFD2F6597AB5CAB6E5052C3"
+msgid "Alessandro Bellini "
+msgstr "Alessandro Bellini "
+
+#. Key:	D13340C74291F0583104D985B48BBC3B
+#. SourceLocation:	/Game/0_Map/BuildScene/Lvl_TestBuild.Lvl_TestBuild:PersistentLevel.BP_OfficeGuy_C_1.Dialogues(0).Dialogues.Lines_9_23878CF44E9D35D629285BA10C7AD832
+#: /Game/0_Map/BuildScene/Lvl_TestBuild.Lvl_TestBuild:PersistentLevel.BP_OfficeGuy_C_1.Dialogues(0).Dialogues.Lines_9_23878CF44E9D35D629285BA10C7AD832
+msgctxt ",D13340C74291F0583104D985B48BBC3B"
+msgid "Hello this is world !"
+msgstr "Hello this is world !"
+
+#. Key:	7EDA59574C917B57AFE703B9ABFE8D5B
+#. SourceLocation:	/Game/0_Map/BuildScene/Lvl_TestBuild.Lvl_TestBuild:PersistentLevel.BP_OfficeGuy_C_1.Dialogues(0).Dialogues.NameNPC_3_774F854A4C9447F4518BBDA8520E2DF9
+#: /Game/0_Map/BuildScene/Lvl_TestBuild.Lvl_TestBuild:PersistentLevel.BP_OfficeGuy_C_1.Dialogues(0).Dialogues.NameNPC_3_774F854A4C9447F4518BBDA8520E2DF9
+msgctxt ",7EDA59574C917B57AFE703B9ABFE8D5B"
+msgid "John john"
+msgstr "John john"
+
+#. Key:	6CC79A5A4C551C22575592ABCCA927DD
+#. SourceLocation:	/Game/0_Map/BuildScene/Lvl_TestBuild.Lvl_TestBuild:PersistentLevel.BP_OfficeGuy_C_1.Dialogues(1).Dialogues.Lines_9_23878CF44E9D35D629285BA10C7AD832
+#: /Game/0_Map/BuildScene/Lvl_TestBuild.Lvl_TestBuild:PersistentLevel.BP_OfficeGuy_C_1.Dialogues(1).Dialogues.Lines_9_23878CF44E9D35D629285BA10C7AD832
+msgctxt ",6CC79A5A4C551C22575592ABCCA927DD"
+msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
+msgstr "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
+
+#. Key:	81D6E3F74FF2ACBBA3EC67BABEF68C79
+#. SourceLocation:	/Game/0_Map/BuildScene/Lvl_TestBuild.Lvl_TestBuild:PersistentLevel.BP_OfficeGuy_C_1.Dialogues(1).Dialogues.NameNPC_3_774F854A4C9447F4518BBDA8520E2DF9
+#: /Game/0_Map/BuildScene/Lvl_TestBuild.Lvl_TestBuild:PersistentLevel.BP_OfficeGuy_C_1.Dialogues(1).Dialogues.NameNPC_3_774F854A4C9447F4518BBDA8520E2DF9
+msgctxt ",81D6E3F74FF2ACBBA3EC67BABEF68C79"
+msgid "John john"
+msgstr "John john"
+
+#. Key:	D7EC076B4DB4DB8D30DBEC9AAE52D543
+#. SourceLocation:	/Game/0_Map/BuildScene/Lvl_TestBuild.Lvl_TestBuild:PersistentLevel.BP_OfficeGuy_C_1.Dialogues(3).Dialogues.Lines_9_23878CF44E9D35D629285BA10C7AD832
+#: /Game/0_Map/BuildScene/Lvl_TestBuild.Lvl_TestBuild:PersistentLevel.BP_OfficeGuy_C_1.Dialogues(3).Dialogues.Lines_9_23878CF44E9D35D629285BA10C7AD832
+msgctxt ",D7EC076B4DB4DB8D30DBEC9AAE52D543"
+msgid "Oh no ! This is the end"
+msgstr "Oh no ! This is the end"
+
+#. Key:	8739F50E41BB789303562DA0A89E2985
+#. SourceLocation:	/Game/0_Map/BuildScene/Lvl_TestBuild.Lvl_TestBuild:PersistentLevel.BP_OfficeGuy_C_1.Dialogues(3).Dialogues.NameNPC_3_774F854A4C9447F4518BBDA8520E2DF9
+#: /Game/0_Map/BuildScene/Lvl_TestBuild.Lvl_TestBuild:PersistentLevel.BP_OfficeGuy_C_1.Dialogues(3).Dialogues.NameNPC_3_774F854A4C9447F4518BBDA8520E2DF9
+msgctxt ",8739F50E41BB789303562DA0A89E2985"
+msgid "John john"
+msgstr "John john"
+
+#. Key:	DBDE94464B2F1824EA083AA78C53A815
+#. SourceLocation:	/Game/1_Blueprints/BP_TopDownCharacter.Default__BP_TopDownCharacter_C.SoundDoorAudiLog
+#: /Game/1_Blueprints/BP_TopDownCharacter.Default__BP_TopDownCharacter_C.SoundDoorAudiLog
+msgctxt ",DBDE94464B2F1824EA083AA78C53A815"
+msgid "Did.. A door just closed ? "
+msgstr "Did.. A door just closed ? "
+
+#. Key:	90AEB3E14A2754E4533B6596BFFBC00D
+#. SourceLocation:	/Game/1_Blueprints/BP_TopDownCharacter.Default__BP_TopDownCharacter_C.WrongRecipeLog
+#: /Game/1_Blueprints/BP_TopDownCharacter.Default__BP_TopDownCharacter_C.WrongRecipeLog
+msgctxt ",90AEB3E14A2754E4533B6596BFFBC00D"
+msgid "I can't combine these items"
+msgstr "I can't combine these items"
+
+#. Key:	90CBC0624760BE77C1F9D7AA5B47F0F2
+#. SourceLocation:	/Game/1_Blueprints/Interactable/BP_DoorBase.BP_DoorBase_C:BackText_GEN_VARIABLE.Text
+#: /Game/1_Blueprints/Interactable/BP_DoorBase.BP_DoorBase_C:BackText_GEN_VARIABLE.Text
+msgctxt ",90CBC0624760BE77C1F9D7AA5B47F0F2"
+msgid "Back"
+msgstr "Back"
+
+#. Key:	D811597F4E82BE157595C7A3B04681E1
+#. SourceLocation:	/Game/1_Blueprints/Interactable/BP_DoorBase.BP_DoorBase_C:FontText_GEN_VARIABLE.Text
+#: /Game/1_Blueprints/Interactable/BP_DoorBase.BP_DoorBase_C:FontText_GEN_VARIABLE.Text
+msgctxt ",D811597F4E82BE157595C7A3B04681E1"
+msgid "Front"
+msgstr "Front"
+
+#. Key:	0C25DEED4DA52705F9778D86D6522435
+#. SourceLocation:	/Game/1_Blueprints/Interactable/BP_DoorBase.Default__BP_DoorBase_C.DoorLockedProgLog
+#: /Game/1_Blueprints/Interactable/BP_DoorBase.Default__BP_DoorBase_C.DoorLockedProgLog
+msgctxt ",0C25DEED4DA52705F9778D86D6522435"
+msgid "Seems like it's closed from the other side"
+msgstr "Seems like it's closed from the other side"
+
+#. Key:	C79DC2C1458EBD91B502F0BF8D31F637
+#. SourceLocation:	/Game/1_Blueprints/Interactable/BP_DoorBase.Default__BP_DoorBase_C.KeyNotFoundLog
+#: /Game/1_Blueprints/Interactable/BP_DoorBase.Default__BP_DoorBase_C.KeyNotFoundLog
+msgctxt ",C79DC2C1458EBD91B502F0BF8D31F637"
+msgid "The door is closed"
+msgstr "The door is closed"
+
+#. Key:	BDD851814AE137EABD187986679CCD3C
+#. SourceLocation:	/Game/1_Blueprints/Items/Datas/DA_Item_A.DA_Item_A.Name
+#: /Game/1_Blueprints/Items/Datas/DA_Item_A.DA_Item_A.Name
+msgctxt ",BDD851814AE137EABD187986679CCD3C"
+msgid "Chapeau"
+msgstr "Chapeau"
+
+#. Key:	BBB12D4A4C8E55ED3E0B2EB893CF3413
+#. SourceLocation:	/Game/1_Blueprints/Items/Datas/DA_Item_B.DA_Item_B.Name
+#: /Game/1_Blueprints/Items/Datas/DA_Item_B.DA_Item_B.Name
+msgctxt ",BBB12D4A4C8E55ED3E0B2EB893CF3413"
+msgid "LaundryBasket"
+msgstr "LaundryBasket"
+
+#. Key:	42657EB84175E65F507486B55E620783
+#. SourceLocation:	/Game/1_Blueprints/Items/Datas/DA_Item_Cigarette.DA_Item_Cigarette.Description
+#: /Game/1_Blueprints/Items/Datas/DA_Item_Cigarette.DA_Item_Cigarette.Description
+msgctxt ",42657EB84175E65F507486B55E620783"
+msgid "My personal pack of cigarettes. I don't go anywhere without my pack of cigarettes."
+msgstr "My personal pack of cigarettes. I don't go anywhere without my pack of cigarettes."
+
+#. Key:	6035400842594894A81CCE900A3B3B0A
+#. SourceLocation:	/Game/1_Blueprints/Items/Datas/DA_Item_Cigarette.DA_Item_Cigarette.Name
+#: /Game/1_Blueprints/Items/Datas/DA_Item_Cigarette.DA_Item_Cigarette.Name
+msgctxt ",6035400842594894A81CCE900A3B3B0A"
+msgid "Cigarette"
+msgstr "Cigarette"
+
+#. Key:	AC19FB6647D2A39C7C455FA0E40CEF75
+#. SourceLocation:	/Game/1_Blueprints/Items/Datas/DA_Item_Empty.DA_Item_Empty.Name
+#: /Game/1_Blueprints/Items/Datas/DA_Item_Empty.DA_Item_Empty.Name
+msgctxt ",AC19FB6647D2A39C7C455FA0E40CEF75"
+msgid "Empty"
+msgstr "Empty"
+
+#. Key:	8E63337646C55FF7815748AFF5941295
+#. SourceLocation:	/Game/1_Blueprints/Items/Datas/DA_Item_Key.DA_Item_Key.Description
+#: /Game/1_Blueprints/Items/Datas/DA_Item_Key.DA_Item_Key.Description
+msgctxt ",8E63337646C55FF7815748AFF5941295"
+msgid "It is a simple metal key. It is used to open a door."
+msgstr "It is a simple metal key. It is used to open a door."
+
+#. Key:	643FA2564036619820B804935841232A
+#. SourceLocation:	/Game/1_Blueprints/Items/Datas/DA_Item_Key.DA_Item_Key.Name
+#: /Game/1_Blueprints/Items/Datas/DA_Item_Key.DA_Item_Key.Name
+msgctxt ",643FA2564036619820B804935841232A"
+msgid "Key"
+msgstr "Key"
+
+#. Key:	EBECD68B4C99A914B5E2D891EB2D2F1F
+#. SourceLocation:	/Game/1_Blueprints/Items/Datas/DA_Item_LensBlue.DA_Item_LensBlue.Description
+#: /Game/1_Blueprints/Items/Datas/DA_Item_LensBlue.DA_Item_LensBlue.Description
+msgctxt ",EBECD68B4C99A914B5E2D891EB2D2F1F"
+msgid "Blue contact lens that Luca gave me."
+msgstr "Blue contact lens that Luca gave me."
+
+#. Key:	714600FD40DF4C9C715B429AE7D78882
+#. SourceLocation:	/Game/1_Blueprints/Items/Datas/DA_Item_LensBlue.DA_Item_LensBlue.Name
+#: /Game/1_Blueprints/Items/Datas/DA_Item_LensBlue.DA_Item_LensBlue.Name
+msgctxt ",714600FD40DF4C9C715B429AE7D78882"
+msgid "LensBlue"
+msgstr "LensBlue"
+
+#. Key:	540AAC2446054F61CD66449A7DB204AF
+#. SourceLocation:	/Game/1_Blueprints/Items/Datas/DA_Item_MaskInitial.DA_Item_MaskInitial.Description
+#: /Game/1_Blueprints/Items/Datas/DA_Item_MaskInitial.DA_Item_MaskInitial.Description
+msgctxt ",540AAC2446054F61CD66449A7DB204AF"
+msgid "Pantalone mask, a character from Commedia Dell'Arte. I found this mask on my seat. The yellow lens was placed over one eye of the mask."
+msgstr "Pantalone mask, a character from Commedia Dell'Arte. I found this mask on my seat. The yellow lens was placed over one eye of the mask."
+
+#. Key:	01EC29C247B53FA8CDB91A8D8C48A990
+#. SourceLocation:	/Game/1_Blueprints/Items/Datas/DA_Item_MaskInitial.DA_Item_MaskInitial.Name
+#: /Game/1_Blueprints/Items/Datas/DA_Item_MaskInitial.DA_Item_MaskInitial.Name
+msgctxt ",01EC29C247B53FA8CDB91A8D8C48A990"
+msgid "Pantalone mask"
+msgstr "Pantalone mask"
+
+#. Key:	5898725F41790CF7C4CA42942DB4C254
+#. SourceLocation:	/Game/1_Blueprints/Items/Datas/DA_Item_MaskMixed.DA_Item_MaskMixed.Description
+#: /Game/1_Blueprints/Items/Datas/DA_Item_MaskMixed.DA_Item_MaskMixed.Description
+msgctxt ",5898725F41790CF7C4CA42942DB4C254"
+msgid "The mask of Pantalone from the Commedia dell'Arte... I inserted the blue lens Luca gave me into the right eye."
+msgstr "The mask of Pantalone from the Commedia dell'Arte... I inserted the blue lens Luca gave me into the right eye."
+
+#. Key:	991E144640C5BC7E6746C28A6FA83C84
+#. SourceLocation:	/Game/1_Blueprints/Items/Datas/DA_Item_MaskMixed.DA_Item_MaskMixed.Name
+#: /Game/1_Blueprints/Items/Datas/DA_Item_MaskMixed.DA_Item_MaskMixed.Name
+msgctxt ",991E144640C5BC7E6746C28A6FA83C84"
+msgid "MaskMixed"
+msgstr "MaskMixed"
+
+#. Key:	2153A15E4A18AC5EA74ABEA4C09EA962
+#. SourceLocation:	/Game/1_Blueprints/Items/Datas/DA_Item_MusicSheet.DA_Item_MusicSheet.Description
+#: /Game/1_Blueprints/Items/Datas/DA_Item_MusicSheet.DA_Item_MusicSheet.Description
+msgctxt ",2153A15E4A18AC5EA74ABEA4C09EA962"
+msgid "A musical score... Nothing could be more normal in the theater."
+msgstr "A musical score... Nothing could be more normal in the theater."
+
+#. Key:	7524113E409E5BBF8FE62C951C25D1F8
+#. SourceLocation:	/Game/1_Blueprints/Items/Datas/DA_Item_MusicSheet.DA_Item_MusicSheet.Name
+#: /Game/1_Blueprints/Items/Datas/DA_Item_MusicSheet.DA_Item_MusicSheet.Name
+msgctxt ",7524113E409E5BBF8FE62C951C25D1F8"
+msgid "Music Sheet"
+msgstr "Music Sheet"
+
+#. Key:	690342984B91EC67B0965FA9D442670D
+#. SourceLocation:	/Game/1_Blueprints/Items/Datas/DA_Item_NewsPaper.DA_Item_NewsPaper.Description
+#: /Game/1_Blueprints/Items/Datas/DA_Item_NewsPaper.DA_Item_NewsPaper.Description
+msgctxt ",690342984B91EC67B0965FA9D442670D"
+msgid "An old torn newspaper, I managed to read this: “A verdict handed down, persistent gray areas.”Rome — The Rome court today handed down its verdict in the tragic Bianchi case, a family drama that occurred on January 12 in the Subure neighborhood and which, despite months of investigation..."
+msgstr "An old torn newspaper, I managed to read this: “A verdict handed down, persistent gray areas.”Rome — The Rome court today handed down its verdict in the tragic Bianchi case, a family drama that occurred on January 12 in the Subure neighborhood and which, despite months of investigation..."
+
+#. Key:	03547C004657895A3880328060626787
+#. SourceLocation:	/Game/1_Blueprints/Items/Datas/DA_Item_NewsPaper.DA_Item_NewsPaper.Name
+#: /Game/1_Blueprints/Items/Datas/DA_Item_NewsPaper.DA_Item_NewsPaper.Name
+msgctxt ",03547C004657895A3880328060626787"
+msgid "News paper"
+msgstr "News paper"
+
+#. Key:	2B012AB34E825115B11A32842B92659D
+#. SourceLocation:	/Game/1_Blueprints/Items/Datas/DA_Item_Tissue.DA_Item_Tissue.Description
+#: /Game/1_Blueprints/Items/Datas/DA_Item_Tissue.DA_Item_Tissue.Description
+msgctxt ",2B012AB34E825115B11A32842B92659D"
+msgid "A cloth handkerchief... Nothing could be more basic..."
+msgstr "A cloth handkerchief... Nothing could be more basic..."
+
+#. Key:	44C71F624CCF456D4C7B91BBBA048622
+#. SourceLocation:	/Game/1_Blueprints/Items/Datas/DA_Item_Tissue.DA_Item_Tissue.Name
+#: /Game/1_Blueprints/Items/Datas/DA_Item_Tissue.DA_Item_Tissue.Name
+msgctxt ",44C71F624CCF456D4C7B91BBBA048622"
+msgid "Tissue"
+msgstr "Tissue"
+
+#. Key:	4A3B0EAE47227E630A31B390273AA622
+#. SourceLocation:	/Game/1_Blueprints/Items/Datas/DA_Item_Trombone.DA_Item_Trombone.Description
+#: /Game/1_Blueprints/Items/Datas/DA_Item_Trombone.DA_Item_Trombone.Description
+msgctxt ",4A3B0EAE47227E630A31B390273AA622"
+msgid "Wind instrument. This one makes a strange sound..."
+msgstr "Wind instrument. This one makes a strange sound..."
+
+#. Key:	2B0C2BE64512410B3C0DE2B32F2DA069
+#. SourceLocation:	/Game/1_Blueprints/Items/Datas/DA_Item_Trombone.DA_Item_Trombone.Name
+#: /Game/1_Blueprints/Items/Datas/DA_Item_Trombone.DA_Item_Trombone.Name
+msgctxt ",2B0C2BE64512410B3C0DE2B32F2DA069"
+msgid "Trombone"
+msgstr "Trombone"
+
+#. Key:	A3C6D8484CD563062750A49F6BDC25ED
+#. SourceLocation:	/Game/1_Blueprints/Items/Datas/PDA_Items.Default__PDA_Items_C.Description
+#: /Game/1_Blueprints/Items/Datas/PDA_Items.Default__PDA_Items_C.Description
+msgctxt ",A3C6D8484CD563062750A49F6BDC25ED"
+msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor. Cras elementum ultrices diam. Maecenas ligula massa, varius a, semper congue, euismod non, mi. Proin porttitor, orci nec nonummy molestie, enim est eleifend mi, non fermentum diam nisl sit amet erat."
+msgstr "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor. Cras elementum ultrices diam. Maecenas ligula massa, varius a, semper congue, euismod non, mi. Proin porttitor, orci nec nonummy molestie, enim est eleifend mi, non fermentum diam nisl sit amet erat."
+
+#. Key:	8E8798134D7EEEE06FB826917775E590
+#. SourceLocation:	/Game/1_Blueprints/Items/Datas/PDA_Items.Default__PDA_Items_C.Name
+#: /Game/1_Blueprints/Items/Datas/PDA_Items.Default__PDA_Items_C.Name
+msgctxt ",8E8798134D7EEEE06FB826917775E590"
+msgid "None"
+msgstr "None"
+
+#. Key:	A333ED2341BFADFA56B33580817D7E0C
+#. SourceLocation:	/Game/1_Blueprints/Mask/BP_HiddenMessage.BP_HiddenMessage_C:Hidden1_GEN_VARIABLE.Text
+#: /Game/1_Blueprints/Mask/BP_HiddenMessage.BP_HiddenMessage_C:Hidden1_GEN_VARIABLE.Text
+msgctxt ",A333ED2341BFADFA56B33580817D7E0C"
+msgid "Message caché"
+msgstr "Message caché"
+
+#. Key:	33FE76D14159CB43557EF2A69D282BC3
+#. SourceLocation:	/Game/1_Blueprints/Mask/BP_HiddenMessage.BP_HiddenMessage_C:Hidden2_GEN_VARIABLE.Text
+#: /Game/1_Blueprints/Mask/BP_HiddenMessage.BP_HiddenMessage_C:Hidden2_GEN_VARIABLE.Text
+msgctxt ",33FE76D14159CB43557EF2A69D282BC3"
+msgid "Message 2"
+msgstr "Message 2"
+
+#. Key:	4AF99DB54DE9EECCCD3D35900952239D
+#. SourceLocation:	/Game/1_Blueprints/Mask/BP_HiddenMessage.BP_HiddenMessage_C:Hidden3_GEN_VARIABLE.Text
+#: /Game/1_Blueprints/Mask/BP_HiddenMessage.BP_HiddenMessage_C:Hidden3_GEN_VARIABLE.Text
+msgctxt ",4AF99DB54DE9EECCCD3D35900952239D"
+msgid "Game Over"
+msgstr "Game Over"
+
+#. Key:	AAA3CF194972640F27C187A05D5F14CD
+#. SourceLocation:	/Game/1_Blueprints/NPC/BP_NPCBase.Default__BP_NPCBase_C.DialogueGive.Lines_9_23878CF44E9D35D629285BA10C7AD832
+#: /Game/1_Blueprints/NPC/BP_NPCBase.Default__BP_NPCBase_C.DialogueGive.Lines_9_23878CF44E9D35D629285BA10C7AD832
+msgctxt ",AAA3CF194972640F27C187A05D5F14CD"
+msgid "Thanks for the tissue! I'll be able to calm down a bit...\r\nWait before you go, I have something to give you that might be useful."
+msgstr "Thanks for the tissue! I'll be able to calm down a bit...\r\nWait before you go, I have something to give you that might be useful."
+
+#. Key:	F0251047461876701A31E098BCEA3FEC
+#. SourceLocation:	/Game/1_Blueprints/NPC/BP_NPCBase.Default__BP_NPCBase_C.DialogueGive.NameNPC_3_774F854A4C9447F4518BBDA8520E2DF9
+#: /Game/1_Blueprints/NPC/BP_NPCBase.Default__BP_NPCBase_C.DialogueGive.NameNPC_3_774F854A4C9447F4518BBDA8520E2DF9
+msgctxt ",F0251047461876701A31E098BCEA3FEC"
+msgid "Luca Matadore"
+msgstr "Luca Matadore"
+
+#. Key:	4EAB3C234ABF8B512784F382CEF82C9F
+#. SourceLocation:	/Game/1_Blueprints/NPC/BP_NPCBase.Default__BP_NPCBase_C.Dialogues(0).Dialogues.Lines_9_23878CF44E9D35D629285BA10C7AD832
+#: /Game/1_Blueprints/NPC/BP_NPCBase.Default__BP_NPCBase_C.Dialogues(0).Dialogues.Lines_9_23878CF44E9D35D629285BA10C7AD832
+msgctxt ",4EAB3C234ABF8B512784F382CEF82C9F"
+msgid "So, how's the investigation going? "
+msgstr "So, how's the investigation going? "
+
+#. Key:	5B203AD44D2658352E8F14876B932254
+#. SourceLocation:	/Game/1_Blueprints/NPC/BP_NPCBase.Default__BP_NPCBase_C.Dialogues(0).Dialogues.NameNPC_3_774F854A4C9447F4518BBDA8520E2DF9
+#: /Game/1_Blueprints/NPC/BP_NPCBase.Default__BP_NPCBase_C.Dialogues(0).Dialogues.NameNPC_3_774F854A4C9447F4518BBDA8520E2DF9
+msgctxt ",5B203AD44D2658352E8F14876B932254"
+msgid "Mask Matadore"
+msgstr "Mask Matadore"
+
+#. Key:	57A95D57445B26F5C6995E83D4D9C594
+#. SourceLocation:	/Game/1_Blueprints/NPC/BP_NPCBase.Default__BP_NPCBase_C.Dialogues(1).Dialogues.Lines_9_23878CF44E9D35D629285BA10C7AD832
+#: /Game/1_Blueprints/NPC/BP_NPCBase.Default__BP_NPCBase_C.Dialogues(1).Dialogues.Lines_9_23878CF44E9D35D629285BA10C7AD832
+msgctxt ",57A95D57445B26F5C6995E83D4D9C594"
+msgid "Listen, I came to see you to ask you a few questions, so I'm counting on you to answer them \r\nwith the utmost concentration..."
+msgstr "Listen, I came to see you to ask you a few questions, so I'm counting on you to answer them \r\nwith the utmost concentration..."
+
+#. Key:	7B554DC74C0A12C6FBB515A29F809C49
+#. SourceLocation:	/Game/1_Blueprints/NPC/BP_NPCBase.Default__BP_NPCBase_C.Dialogues(1).Dialogues.NameNPC_3_774F854A4C9447F4518BBDA8520E2DF9
+#: /Game/1_Blueprints/NPC/BP_NPCBase.Default__BP_NPCBase_C.Dialogues(1).Dialogues.NameNPC_3_774F854A4C9447F4518BBDA8520E2DF9
+msgctxt ",7B554DC74C0A12C6FBB515A29F809C49"
+msgid "Alessandro Bellini"
+msgstr "Alessandro Bellini"
+
+#. Key:	715BAC6A455279FB9A86A08DD81F5A84
+#. SourceLocation:	/Game/1_Blueprints/NPC/BP_NPCBase.Default__BP_NPCBase_C.Dialogues(10).Dialogues.Lines_9_23878CF44E9D35D629285BA10C7AD832
+#: /Game/1_Blueprints/NPC/BP_NPCBase.Default__BP_NPCBase_C.Dialogues(10).Dialogues.Lines_9_23878CF44E9D35D629285BA10C7AD832
+msgctxt ",715BAC6A455279FB9A86A08DD81F5A84"
+msgid "Okay, thanks for the information, Luca.\r\nI'll continue my investigation."
+msgstr "Okay, thanks for the information, Luca.\r\nI'll continue my investigation."
+
+#. Key:	B90CB3F6459D98A5C8B6B590D43714E4
+#. SourceLocation:	/Game/1_Blueprints/NPC/BP_NPCBase.Default__BP_NPCBase_C.Dialogues(10).Dialogues.NameNPC_3_774F854A4C9447F4518BBDA8520E2DF9
+#: /Game/1_Blueprints/NPC/BP_NPCBase.Default__BP_NPCBase_C.Dialogues(10).Dialogues.NameNPC_3_774F854A4C9447F4518BBDA8520E2DF9
+msgctxt ",B90CB3F6459D98A5C8B6B590D43714E4"
+msgid "Alessandro Bellini"
+msgstr "Alessandro Bellini"
+
+#. Key:	E7F71DE5451C56970D1FFD873489F8BE
+#. SourceLocation:	/Game/1_Blueprints/NPC/BP_NPCBase.Default__BP_NPCBase_C.Dialogues(11).Dialogues.Lines_9_23878CF44E9D35D629285BA10C7AD832
+#: /Game/1_Blueprints/NPC/BP_NPCBase.Default__BP_NPCBase_C.Dialogues(11).Dialogues.Lines_9_23878CF44E9D35D629285BA10C7AD832
+msgctxt ",E7F71DE5451C56970D1FFD873489F8BE"
+msgid "..."
+msgstr "..."
+
+#. Key:	D39C3094471E0BBC871552B46D781F23
+#. SourceLocation:	/Game/1_Blueprints/NPC/BP_NPCBase.Default__BP_NPCBase_C.Dialogues(11).Dialogues.NameNPC_3_774F854A4C9447F4518BBDA8520E2DF9
+#: /Game/1_Blueprints/NPC/BP_NPCBase.Default__BP_NPCBase_C.Dialogues(11).Dialogues.NameNPC_3_774F854A4C9447F4518BBDA8520E2DF9
+msgctxt ",D39C3094471E0BBC871552B46D781F23"
+msgid "Luca Matadpre"
+msgstr "Luca Matadpre"
+
+#. Key:	8F18DC0E49127BA61D5D7A8820F41FAC
+#. SourceLocation:	/Game/1_Blueprints/NPC/BP_NPCBase.Default__BP_NPCBase_C.Dialogues(2).Dialogues.Lines_9_23878CF44E9D35D629285BA10C7AD832
+#: /Game/1_Blueprints/NPC/BP_NPCBase.Default__BP_NPCBase_C.Dialogues(2).Dialogues.Lines_9_23878CF44E9D35D629285BA10C7AD832
+msgctxt ",8F18DC0E49127BA61D5D7A8820F41FAC"
+msgid "I assure you it's going to be difficult to stay focused. \r\nEver since we arrived, something's been off. Haven't you noticed, Alessandro, the great detective?"
+msgstr "I assure you it's going to be difficult to stay focused. \r\nEver since we arrived, something's been off. Haven't you noticed, Alessandro, the great detective?"
+
+#. Key:	D427416F46B5FB0D2467AFA36622E60A
+#. SourceLocation:	/Game/1_Blueprints/NPC/BP_NPCBase.Default__BP_NPCBase_C.Dialogues(2).Dialogues.NameNPC_3_774F854A4C9447F4518BBDA8520E2DF9
+#: /Game/1_Blueprints/NPC/BP_NPCBase.Default__BP_NPCBase_C.Dialogues(2).Dialogues.NameNPC_3_774F854A4C9447F4518BBDA8520E2DF9
+msgctxt ",D427416F46B5FB0D2467AFA36622E60A"
+msgid "Mask Matadore"
+msgstr "Mask Matadore"
+
+#. Key:	3FBEB6A7492EFB9BEFE0789ADBC5C8EE
+#. SourceLocation:	/Game/1_Blueprints/NPC/BP_NPCBase.Default__BP_NPCBase_C.Dialogues(3).Dialogues.Lines_9_23878CF44E9D35D629285BA10C7AD832
+#: /Game/1_Blueprints/NPC/BP_NPCBase.Default__BP_NPCBase_C.Dialogues(3).Dialogues.Lines_9_23878CF44E9D35D629285BA10C7AD832
+msgctxt ",3FBEB6A7492EFB9BEFE0789ADBC5C8EE"
+msgid "Breathe, everything's fine, I'm here to help you get out of this cursed place.\r\nGreat! Now I'd like to know who you are behind your Matamore mask?"
+msgstr "Breathe, everything's fine, I'm here to help you get out of this cursed place.\r\nGreat! Now I'd like to know who you are behind your Matamore mask?"
+
+#. Key:	FF90FE054407806180A683AE13007CD5
+#. SourceLocation:	/Game/1_Blueprints/NPC/BP_NPCBase.Default__BP_NPCBase_C.Dialogues(3).Dialogues.NameNPC_3_774F854A4C9447F4518BBDA8520E2DF9
+#: /Game/1_Blueprints/NPC/BP_NPCBase.Default__BP_NPCBase_C.Dialogues(3).Dialogues.NameNPC_3_774F854A4C9447F4518BBDA8520E2DF9
+msgctxt ",FF90FE054407806180A683AE13007CD5"
+msgid "Alessandro Bellini"
+msgstr "Alessandro Bellini"
+
+#. Key:	4A9D5D8349EB4436969FF984A4AEDA4E
+#. SourceLocation:	/Game/1_Blueprints/NPC/BP_NPCBase.Default__BP_NPCBase_C.Dialogues(4).Dialogues.Lines_9_23878CF44E9D35D629285BA10C7AD832
+#: /Game/1_Blueprints/NPC/BP_NPCBase.Default__BP_NPCBase_C.Dialogues(4).Dialogues.Lines_9_23878CF44E9D35D629285BA10C7AD832
+msgctxt ",4A9D5D8349EB4436969FF984A4AEDA4E"
+msgid "I'm Luca Matadore, a security guard, I'm 28 years old. Um... What else would you like to know about me?"
+msgstr "I'm Luca Matadore, a security guard, I'm 28 years old. Um... What else would you like to know about me?"
+
+#. Key:	B138B31D47591B5DA575459EB6C7B2BA
+#. SourceLocation:	/Game/1_Blueprints/NPC/BP_NPCBase.Default__BP_NPCBase_C.Dialogues(4).Dialogues.NameNPC_3_774F854A4C9447F4518BBDA8520E2DF9
+#: /Game/1_Blueprints/NPC/BP_NPCBase.Default__BP_NPCBase_C.Dialogues(4).Dialogues.NameNPC_3_774F854A4C9447F4518BBDA8520E2DF9
+msgctxt ",B138B31D47591B5DA575459EB6C7B2BA"
+msgid "Luca Matadore"
+msgstr "Luca Matadore"
+
+#. Key:	CB467E0A455EF9D3CE9DCBAB283F4581
+#. SourceLocation:	/Game/1_Blueprints/NPC/BP_NPCBase.Default__BP_NPCBase_C.Dialogues(5).Dialogues.Lines_9_23878CF44E9D35D629285BA10C7AD832
+#: /Game/1_Blueprints/NPC/BP_NPCBase.Default__BP_NPCBase_C.Dialogues(5).Dialogues.Lines_9_23878CF44E9D35D629285BA10C7AD832
+msgctxt ",CB467E0A455EF9D3CE9DCBAB283F4581"
+msgid "Okay, Luca... Can you show me your invitation letter to this play?"
+msgstr "Okay, Luca... Can you show me your invitation letter to this play?"
+
+#. Key:	54432AE641FE9E5237E398932E395A50
+#. SourceLocation:	/Game/1_Blueprints/NPC/BP_NPCBase.Default__BP_NPCBase_C.Dialogues(5).Dialogues.NameNPC_3_774F854A4C9447F4518BBDA8520E2DF9
+#: /Game/1_Blueprints/NPC/BP_NPCBase.Default__BP_NPCBase_C.Dialogues(5).Dialogues.NameNPC_3_774F854A4C9447F4518BBDA8520E2DF9
+msgctxt ",54432AE641FE9E5237E398932E395A50"
+msgid "Alessandro Bellini"
+msgstr "Alessandro Bellini"
+
+#. Key:	C171324A46B84B629031B2B88A0BE8A9
+#. SourceLocation:	/Game/1_Blueprints/NPC/BP_NPCBase.Default__BP_NPCBase_C.Dialogues(6).Dialogues.Lines_9_23878CF44E9D35D629285BA10C7AD832
+#: /Game/1_Blueprints/NPC/BP_NPCBase.Default__BP_NPCBase_C.Dialogues(6).Dialogues.Lines_9_23878CF44E9D35D629285BA10C7AD832
+msgctxt ",C171324A46B84B629031B2B88A0BE8A9"
+msgid "Ah, the letter I received? Okay, I'll quote it to you, I happen to have it with me:"
+msgstr "Ah, the letter I received? Okay, I'll quote it to you, I happen to have it with me:"
+
+#. Key:	E49DE3EE4D06CDB88F7EAC94C78D0A25
+#. SourceLocation:	/Game/1_Blueprints/NPC/BP_NPCBase.Default__BP_NPCBase_C.Dialogues(6).Dialogues.NameNPC_3_774F854A4C9447F4518BBDA8520E2DF9
+#: /Game/1_Blueprints/NPC/BP_NPCBase.Default__BP_NPCBase_C.Dialogues(6).Dialogues.NameNPC_3_774F854A4C9447F4518BBDA8520E2DF9
+msgctxt ",E49DE3EE4D06CDB88F7EAC94C78D0A25"
+msgid "Luca Matadore"
+msgstr "Luca Matadore"
+
+#. Key:	CC91F0CE4D3E77C44524AB8B2E522E00
+#. SourceLocation:	/Game/1_Blueprints/NPC/BP_NPCBase.Default__BP_NPCBase_C.Dialogues(7).Dialogues.Lines_9_23878CF44E9D35D629285BA10C7AD832
+#: /Game/1_Blueprints/NPC/BP_NPCBase.Default__BP_NPCBase_C.Dialogues(7).Dialogues.Lines_9_23878CF44E9D35D629285BA10C7AD832
+msgctxt ",CC91F0CE4D3E77C44524AB8B2E522E00"
+msgid "\"Dear Luca, I would really like you to be present at the final performance at the theater in Rome. I know it's been difficult for you lately... I promise you that you will finally be recognized as the person you claim to be in your stories.“ "
+msgstr "\"Dear Luca, I would really like you to be present at the final performance at the theater in Rome. I know it's been difficult for you lately... I promise you that you will finally be recognized as the person you claim to be in your stories.“ "
+
+#. Key:	4F7DC7434186198C4A7829A49A75F9A0
+#. SourceLocation:	/Game/1_Blueprints/NPC/BP_NPCBase.Default__BP_NPCBase_C.Dialogues(7).Dialogues.NameNPC_3_774F854A4C9447F4518BBDA8520E2DF9
+#: /Game/1_Blueprints/NPC/BP_NPCBase.Default__BP_NPCBase_C.Dialogues(7).Dialogues.NameNPC_3_774F854A4C9447F4518BBDA8520E2DF9
+msgctxt ",4F7DC7434186198C4A7829A49A75F9A0"
+msgid "Luca Matadore"
+msgstr "Luca Matadore"
+
+#. Key:	7543D7A24A6AD5CC47178D9873015767
+#. SourceLocation:	/Game/1_Blueprints/NPC/BP_NPCBase.Default__BP_NPCBase_C.Dialogues(8).Dialogues.Lines_9_23878CF44E9D35D629285BA10C7AD832
+#: /Game/1_Blueprints/NPC/BP_NPCBase.Default__BP_NPCBase_C.Dialogues(8).Dialogues.Lines_9_23878CF44E9D35D629285BA10C7AD832
+msgctxt ",7543D7A24A6AD5CC47178D9873015767"
+msgid "That's all it says. If you want to know, the letter is signed ”a friend who wishes you well.\""
+msgstr "That's all it says. If you want to know, the letter is signed ”a friend who wishes you well.\""
+
+#. Key:	175E011744E7A45F7D5FEA8D19DCAEA1
+#. SourceLocation:	/Game/1_Blueprints/NPC/BP_NPCBase.Default__BP_NPCBase_C.Dialogues(8).Dialogues.NameNPC_3_774F854A4C9447F4518BBDA8520E2DF9
+#: /Game/1_Blueprints/NPC/BP_NPCBase.Default__BP_NPCBase_C.Dialogues(8).Dialogues.NameNPC_3_774F854A4C9447F4518BBDA8520E2DF9
+msgctxt ",175E011744E7A45F7D5FEA8D19DCAEA1"
+msgid "Luca Matadore"
+msgstr "Luca Matadore"
+
+#. Key:	877E5FB74D3F2FB1483BD69246A21BAF
+#. SourceLocation:	/Game/1_Blueprints/NPC/BP_NPCBase.Default__BP_NPCBase_C.Dialogues(9).Dialogues.Lines_9_23878CF44E9D35D629285BA10C7AD832
+#: /Game/1_Blueprints/NPC/BP_NPCBase.Default__BP_NPCBase_C.Dialogues(9).Dialogues.Lines_9_23878CF44E9D35D629285BA10C7AD832
+msgctxt ",877E5FB74D3F2FB1483BD69246A21BAF"
+msgid "I don't have any friends who like the theater... Anyway, I knew this story was fishy..."
+msgstr "I don't have any friends who like the theater... Anyway, I knew this story was fishy..."
+
+#. Key:	5E29ECD24FED90F616D6F68BBD7223C2
+#. SourceLocation:	/Game/1_Blueprints/NPC/BP_NPCBase.Default__BP_NPCBase_C.Dialogues(9).Dialogues.NameNPC_3_774F854A4C9447F4518BBDA8520E2DF9
+#: /Game/1_Blueprints/NPC/BP_NPCBase.Default__BP_NPCBase_C.Dialogues(9).Dialogues.NameNPC_3_774F854A4C9447F4518BBDA8520E2DF9
+msgctxt ",5E29ECD24FED90F616D6F68BBD7223C2"
+msgid "Luca Matadore"
+msgstr "Luca Matadore"
+
+#. Key:	CDB0E8DC48D47DD579A3EBA18A0E0AA9
+#. SourceLocation:	/Game/1_Blueprints/TP/BP_BlockAccueil.Default__BP_BlockAccueil_C.DoorIsLockedLog
+#: /Game/1_Blueprints/TP/BP_BlockAccueil.Default__BP_BlockAccueil_C.DoorIsLockedLog
+msgctxt ",CDB0E8DC48D47DD579A3EBA18A0E0AA9"
+msgid "The door seems locked on this side"
+msgstr "The door seems locked on this side"
+
+#. Key:	1BFA72D841AF51274421DDB440AAF105
+#. SourceLocation:	/Game/1_Blueprints/Widget/ComputerGame/WBP_BoxNumber.WBP_BoxNumber_C:ExecuteUbergraph_WBP_BoxNumber [Script Bytecode]
+#: /Game/1_Blueprints/Widget/ComputerGame/WBP_BoxNumber.WBP_BoxNumber_C:ExecuteUbergraph_WBP_BoxNumber [Script Bytecode]
+msgctxt ",1BFA72D841AF51274421DDB440AAF105"
+msgid "0"
+msgstr "0"
+
+#. Key:	D6BB29E2411A44DA9DE372A04E9CD39A
+#. SourceLocation:	/Game/1_Blueprints/Widget/ComputerGame/WBP_BoxNumber.WBP_BoxNumber_C:Get_TextBox_Text [Script Bytecode]
+#: /Game/1_Blueprints/Widget/ComputerGame/WBP_BoxNumber.WBP_BoxNumber_C:Get_TextBox_Text [Script Bytecode]
+msgctxt ",D6BB29E2411A44DA9DE372A04E9CD39A"
+msgid "0"
+msgstr "0"
+
+#. Key:	5481F1E84BAD0FBC5D281F97E41F3DDE
+#. SourceLocation:	/Game/1_Blueprints/Widget/ComputerGame/WBP_BoxNumber.WBP_BoxNumber_C:SubstractNumber [Script Bytecode]
+#: /Game/1_Blueprints/Widget/ComputerGame/WBP_BoxNumber.WBP_BoxNumber_C:SubstractNumber [Script Bytecode]
+msgctxt ",5481F1E84BAD0FBC5D281F97E41F3DDE"
+msgid "9"
+msgstr "9"
+
+#. Key:	B2FD8B594F31B82A063DA2AD7C60F508
+#. SourceLocation:	/Game/1_Blueprints/Widget/ComputerGame/WBP_BoxNumber.WBP_BoxNumber_C:WidgetTree.TextBox.Text
+#: /Game/1_Blueprints/Widget/ComputerGame/WBP_BoxNumber.WBP_BoxNumber_C:WidgetTree.TextBox.Text
+msgctxt ",B2FD8B594F31B82A063DA2AD7C60F508"
+msgid "1"
+msgstr "1"
+
+#. Key:	40DD66714F11F524E34A43BD8EE74941
+#. SourceLocation:	/Game/1_Blueprints/Widget/ComputerGame/WBP_ComputerCode.WBP_ComputerCode_C:WidgetTree.WBP_BaseButton.ButtonText
+#: /Game/1_Blueprints/Widget/ComputerGame/WBP_ComputerCode.WBP_ComputerCode_C:WidgetTree.WBP_BaseButton.ButtonText
+msgctxt ",40DD66714F11F524E34A43BD8EE74941"
+msgid "Return"
+msgstr "Return"
+
+#. Key:	AA72A3AB4B62DE32C83BC680260672D9
+#. SourceLocation:	/Game/1_Blueprints/Widget/WBP_BaseButton.Default__WBP_BaseButton_C.ButtonText
+#: /Game/1_Blueprints/Widget/WBP_BaseButton.Default__WBP_BaseButton_C.ButtonText
+msgctxt ",AA72A3AB4B62DE32C83BC680260672D9"
+msgid "PlaceHolder"
+msgstr "PlaceHolder"
+
+#. Key:	2A71B69D4E7ACB2C5626C89BBEC938CB
+#. SourceLocation:	/Game/1_Blueprints/Widget/WBP_BaseButtonBox.Default__WBP_BaseButtonBox_C.ButtonText
+#: /Game/1_Blueprints/Widget/WBP_BaseButtonBox.Default__WBP_BaseButtonBox_C.ButtonText
+msgctxt ",2A71B69D4E7ACB2C5626C89BBEC938CB"
+msgid "PlaceHolder"
+msgstr "PlaceHolder"
+
+#. Key:	AAB94D8E4EE5B38D82A4668AAB45466B
+#. SourceLocation:	/Game/1_Blueprints/Widget/WBP_BaseButtonCalepin.WBP_BaseButtonCalepin_C:WidgetTree.TextBlock.Text
+#: /Game/1_Blueprints/Widget/WBP_BaseButtonCalepin.WBP_BaseButtonCalepin_C:WidgetTree.TextBlock.Text
+msgctxt ",AAB94D8E4EE5B38D82A4668AAB45466B"
+msgid "Relationships"
+msgstr "Relationships"
+
+#. Key:	580741644368DE353A7735AEE98F84F8
+#. SourceLocation:	/Game/1_Blueprints/Widget/WBP_Calepin.WBP_Calepin_C:WidgetTree.TextBlock.Text
+#: /Game/1_Blueprints/Widget/WBP_Calepin.WBP_Calepin_C:WidgetTree.TextBlock.Text
+msgctxt ",580741644368DE353A7735AEE98F84F8"
+msgid "A ticket for another chair= RightWing K4"
+msgstr "A ticket for another chair= RightWing K4"
+
+#. Key:	C639E4C64D01912BDBCE3B8C14997C21
+#. SourceLocation:	/Game/1_Blueprints/Widget/WBP_Calepin.WBP_Calepin_C:WidgetTree.TextBlock_1.Text
+#: /Game/1_Blueprints/Widget/WBP_Calepin.WBP_Calepin_C:WidgetTree.TextBlock_1.Text
+msgctxt ",C639E4C64D01912BDBCE3B8C14997C21"
+msgid "The dummies form a \"6\", \r\nclever but the execution could be better"
+msgstr "The dummies form a \"6\", \r\nclever but the execution could be better"
+
+#. Key:	DB302328434F55C03E79C29E7F0830C4
+#. SourceLocation:	/Game/1_Blueprints/Widget/WBP_Calepin.WBP_Calepin_C:WidgetTree.TextBlock_157.Text
+#: /Game/1_Blueprints/Widget/WBP_Calepin.WBP_Calepin_C:WidgetTree.TextBlock_157.Text
+msgctxt ",DB302328434F55C03E79C29E7F0830C4"
+msgid "There's a strange text on the\r\nIron Curtain. Something about \r\nthe colors maybe"
+msgstr "There's a strange text on the\r\nIron Curtain. Something about \r\nthe colors maybe"
+
+#. Key:	FFA1CEA14A3539223BDA09A26C86810D
+#. SourceLocation:	/Game/1_Blueprints/Widget/WBP_Calepin.WBP_Calepin_C:WidgetTree.TextBlock_2.Text
+#: /Game/1_Blueprints/Widget/WBP_Calepin.WBP_Calepin_C:WidgetTree.TextBlock_2.Text
+msgctxt ",FFA1CEA14A3539223BDA09A26C86810D"
+msgid "There's a 4 digit code on the pc. \r\nFor the curtain ?"
+msgstr "There's a 4 digit code on the pc. \r\nFor the curtain ?"
+
+#. Key:	C915E13E41EF4D7DD77B018C5EB7C328
+#. SourceLocation:	/Game/1_Blueprints/Widget/WBP_Calepin.WBP_Calepin_C:WidgetTree.TextBlock_3.Text
+#: /Game/1_Blueprints/Widget/WBP_Calepin.WBP_Calepin_C:WidgetTree.TextBlock_3.Text
+msgctxt ",C915E13E41EF4D7DD77B018C5EB7C328"
+msgid "There's a lot of \"1\" on \r\nthis journal, quite suspicious\r\nAnd a date is crossed out = ? | ? | 1 | ?"
+msgstr "There's a lot of \"1\" on \r\nthis journal, quite suspicious\r\nAnd a date is crossed out = ? | ? | 1 | ?"
+
+#. Key:	0B643AB244BD39C114587ABB82D5B0A7
+#. SourceLocation:	/Game/1_Blueprints/Widget/WBP_Calepin.WBP_Calepin_C:WidgetTree.TextBlock_4.Text
+#: /Game/1_Blueprints/Widget/WBP_Calepin.WBP_Calepin_C:WidgetTree.TextBlock_4.Text
+msgctxt ",0B643AB244BD39C114587ABB82D5B0A7"
+msgid "There's a big \"0\" on the back of \r\nthis partition, not the smartest enigm"
+msgstr "There's a big \"0\" on the back of \r\nthis partition, not the smartest enigm"
+
+#. Key:	B8C5C1C141FC68B5972F24B58F9C469E
+#. SourceLocation:	/Game/1_Blueprints/Widget/WBP_Calepin.WBP_Calepin_C:WidgetTree.TextBlock_74.Text
+#: /Game/1_Blueprints/Widget/WBP_Calepin.WBP_Calepin_C:WidgetTree.TextBlock_74.Text
+msgctxt ",B8C5C1C141FC68B5972F24B58F9C469E"
+msgid "Note Book"
+msgstr "Note Book"
+
+#. Key:	780E03234744B338F5FD779ED9DF333A
+#. SourceLocation:	/Game/1_Blueprints/Widget/WBP_Calepin.WBP_Calepin_C:WidgetTree.WBP_BaseButtonReturn.ButtonText
+#: /Game/1_Blueprints/Widget/WBP_Calepin.WBP_Calepin_C:WidgetTree.WBP_BaseButtonReturn.ButtonText
+msgctxt ",780E03234744B338F5FD779ED9DF333A"
+msgid "Return"
+msgstr "Return"
+
+#. Key:	ADE55D37416E9C0E2A944296E9368BE1
+#. SourceLocation:	/Game/1_Blueprints/Widget/WBP_CluesNoted.WBP_CluesNoted_C:WidgetTree.TextBlock_65.Text
+#: /Game/1_Blueprints/Widget/WBP_CluesNoted.WBP_CluesNoted_C:WidgetTree.TextBlock_65.Text
+msgctxt ",ADE55D37416E9C0E2A944296E9368BE1"
+msgid "Clues noted"
+msgstr "Clues noted"
+
+#. Key:	82504AB74410AD660F38ACA980AD0BCE
+#. SourceLocation:	/Game/1_Blueprints/Widget/WBP_Dialogue.WBP_Dialogue_C:WidgetTree.NamePerso.Text
+#: /Game/1_Blueprints/Widget/WBP_Dialogue.WBP_Dialogue_C:WidgetTree.NamePerso.Text
+msgctxt ",82504AB74410AD660F38ACA980AD0BCE"
+msgid "John john"
+msgstr "John john"
+
+#. Key:	55D20023428A5E2B5C442CB89A0CAB90
+#. SourceLocation:	/Game/1_Blueprints/Widget/WBP_Dialogue.WBP_Dialogue_C:WidgetTree.TextBlock_56.Text
+#: /Game/1_Blueprints/Widget/WBP_Dialogue.WBP_Dialogue_C:WidgetTree.TextBlock_56.Text
+msgctxt ",55D20023428A5E2B5C442CB89A0CAB90"
+msgid "Bla bla bla ! "
+msgstr "Bla bla bla ! "
+
+#. Key:	6DE1189740311B5287950D8DCE6B36AD
+#. SourceLocation:	/Game/1_Blueprints/Widget/WBP_DialogueMain.WBP_DialogueMain_C:WidgetTree.WBP_BaseButtonBox_Give.ButtonText
+#: /Game/1_Blueprints/Widget/WBP_DialogueMain.WBP_DialogueMain_C:WidgetTree.WBP_BaseButtonBox_Give.ButtonText
+msgctxt ",6DE1189740311B5287950D8DCE6B36AD"
+msgid "Give"
+msgstr "Give"
+
+#. Key:	593EC6A84FAAD4C5576348936CACC3A1
+#. SourceLocation:	/Game/1_Blueprints/Widget/WBP_DialogueMain.WBP_DialogueMain_C:WidgetTree.WBP_BaseButtonBox_Next.ButtonText
+#: /Game/1_Blueprints/Widget/WBP_DialogueMain.WBP_DialogueMain_C:WidgetTree.WBP_BaseButtonBox_Next.ButtonText
+msgctxt ",593EC6A84FAAD4C5576348936CACC3A1"
+msgid "Next"
+msgstr "Next"
+
+#. Key:	E034C01B47D8BAD574922B8A1AB16092
+#. SourceLocation:	/Game/1_Blueprints/Widget/WBP_DialogueMain.WBP_DialogueMain_C:WidgetTree.WBP_BaseButtonBox_Talk.ButtonText
+#: /Game/1_Blueprints/Widget/WBP_DialogueMain.WBP_DialogueMain_C:WidgetTree.WBP_BaseButtonBox_Talk.ButtonText
+msgctxt ",E034C01B47D8BAD574922B8A1AB16092"
+msgid "Talk"
+msgstr "Talk"
+
+#. Key:	0B9FAB794EAC31EAE1D64D929C6D2F6E
+#. SourceLocation:	/Game/1_Blueprints/Widget/WBP_EndGame.WBP_EndGame_C:WidgetTree.EndGameText.Text
+#: /Game/1_Blueprints/Widget/WBP_EndGame.WBP_EndGame_C:WidgetTree.EndGameText.Text
+msgctxt ",0B9FAB794EAC31EAE1D64D929C6D2F6E"
+msgid "You finished the demo\r\nThanks for playing our game"
+msgstr "You finished the demo\r\nThanks for playing our game"
+
+#. Key:	ECCA67F141EC5854A62DC48EAF233CC9
+#. SourceLocation:	/Game/1_Blueprints/Widget/WBP_EndGame.WBP_EndGame_C:WidgetTree.WBP_BaseButtonMainMenu.ButtonText
+#: /Game/1_Blueprints/Widget/WBP_EndGame.WBP_EndGame_C:WidgetTree.WBP_BaseButtonMainMenu.ButtonText
+msgctxt ",ECCA67F141EC5854A62DC48EAF233CC9"
+msgid "Main menu"
+msgstr "Main menu"
+
+#. Key:	36619EF5465ADB6D757CEAB51E7A0111
+#. SourceLocation:	/Game/1_Blueprints/Widget/WBP_EndGame.WBP_EndGame_C:WidgetTree.WBP_BaseButtonQuit.ButtonText
+#: /Game/1_Blueprints/Widget/WBP_EndGame.WBP_EndGame_C:WidgetTree.WBP_BaseButtonQuit.ButtonText
+msgctxt ",36619EF5465ADB6D757CEAB51E7A0111"
+msgid "Quit"
+msgstr "Quit"
+
+#. Key:	49FB48074EE08744FF11F7A45277DE2D
+#. SourceLocation:	/Game/1_Blueprints/Widget/WBP_HUD.WBP_HUD_C:WidgetTree.TextBlock.Text
+#: /Game/1_Blueprints/Widget/WBP_HUD.WBP_HUD_C:WidgetTree.TextBlock.Text
+msgctxt ",49FB48074EE08744FF11F7A45277DE2D"
+msgid " for mask"
+msgstr " for mask"
+
+#. Key:	FD8E766642725B1197B9B8A42C6EEB9F
+#. SourceLocation:	/Game/1_Blueprints/Widget/WBP_HUD.WBP_HUD_C:WidgetTree.TextBlock_1.Text
+#: /Game/1_Blueprints/Widget/WBP_HUD.WBP_HUD_C:WidgetTree.TextBlock_1.Text
+msgctxt ",FD8E766642725B1197B9B8A42C6EEB9F"
+msgid " for notes"
+msgstr " for notes"
+
+#. Key:	DBA32F774D6ED9CEACC12AA6620B6CA8
+#. SourceLocation:	/Game/1_Blueprints/Widget/WBP_HUD.WBP_HUD_C:WidgetTree.TextBlock_39.Text
+#: /Game/1_Blueprints/Widget/WBP_HUD.WBP_HUD_C:WidgetTree.TextBlock_39.Text
+msgctxt ",DBA32F774D6ED9CEACC12AA6620B6CA8"
+msgid " for inventory"
+msgstr " for inventory"
+
+#. Key:	EB362F274371FCEC1E74BAAA86370A47
+#. SourceLocation:	/Game/1_Blueprints/Widget/WBP_HUD.WBP_HUD_C:WidgetTree.WBP_BaseButtonBoxCombine.ButtonText
+#: /Game/1_Blueprints/Widget/WBP_HUD.WBP_HUD_C:WidgetTree.WBP_BaseButtonBoxCombine.ButtonText
+msgctxt ",EB362F274371FCEC1E74BAAA86370A47"
+msgid "Combine"
+msgstr "Combine"
+
+#. Key:	44B110764AFD90613D87A7BF93223ACE
+#. SourceLocation:	/Game/1_Blueprints/Widget/WBP_HUD.WBP_HUD_C:WidgetTree.WBP_BaseButtonBoxInspect.ButtonText
+#: /Game/1_Blueprints/Widget/WBP_HUD.WBP_HUD_C:WidgetTree.WBP_BaseButtonBoxInspect.ButtonText
+msgctxt ",44B110764AFD90613D87A7BF93223ACE"
+msgid "Inspect"
+msgstr "Inspect"
+
+#. Key:	1D98FD52428083DDC50F0DBC07B3ABE7
+#. SourceLocation:	/Game/1_Blueprints/Widget/WBP_InspectItem.WBP_InspectItem_C:WidgetTree.ItemDescriptionText.Text
+#: /Game/1_Blueprints/Widget/WBP_InspectItem.WBP_InspectItem_C:WidgetTree.ItemDescriptionText.Text
+msgctxt ",1D98FD52428083DDC50F0DBC07B3ABE7"
+msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor. Cras elementum ultrices diam. Maecenas ligula massa, varius a, semper congue, euismod non, mi. Proin porttitor, orci nec nonummy molestie, enim est eleifend mi, non fermentum diam nisl sit amet erat. Duis semper. "
+msgstr "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor. Cras elementum ultrices diam. Maecenas ligula massa, varius a, semper congue, euismod non, mi. Proin porttitor, orci nec nonummy molestie, enim est eleifend mi, non fermentum diam nisl sit amet erat. Duis semper. "
+
+#. Key:	35039DB94B8837C72638D4A033B9CA7B
+#. SourceLocation:	/Game/1_Blueprints/Widget/WBP_InspectItem.WBP_InspectItem_C:WidgetTree.ItemNameText.Text
+#: /Game/1_Blueprints/Widget/WBP_InspectItem.WBP_InspectItem_C:WidgetTree.ItemNameText.Text
+msgctxt ",35039DB94B8837C72638D4A033B9CA7B"
+msgid "Item name"
+msgstr "Item name"
+
+#. Key:	A8FBC2B14944FD48E9319BB30AF707F5
+#. SourceLocation:	/Game/1_Blueprints/Widget/WBP_InspectItem.WBP_InspectItem_C:WidgetTree.WBP_BaseButton.ButtonText
+#: /Game/1_Blueprints/Widget/WBP_InspectItem.WBP_InspectItem_C:WidgetTree.WBP_BaseButton.ButtonText
+msgctxt ",A8FBC2B14944FD48E9319BB30AF707F5"
+msgid "Close inspection"
+msgstr "Close inspection"
+
+#. Key:	3288CB5E4D1CD5D797C8829B9C306E6C
+#. SourceLocation:	/Game/1_Blueprints/Widget/WBP_Language.WBP_Language_C:WidgetTree.TextBlock_48.Text
+#: /Game/1_Blueprints/Widget/WBP_Language.WBP_Language_C:WidgetTree.TextBlock_48.Text
+msgctxt ",3288CB5E4D1CD5D797C8829B9C306E6C"
+msgid "French"
+msgstr "French"
+
+#. Key:	DC6C4ACC4FCDD29B2FB723B9478541CB
+#. SourceLocation:	/Game/1_Blueprints/Widget/WBP_Language.WBP_Language_C:WidgetTree.TextBlock_89.Text
+#: /Game/1_Blueprints/Widget/WBP_Language.WBP_Language_C:WidgetTree.TextBlock_89.Text
+msgctxt ",DC6C4ACC4FCDD29B2FB723B9478541CB"
+msgid "English"
+msgstr "English"
+
+#. Key:	6DA73EC94A5C983D883015B5760344DE
+#. SourceLocation:	/Game/1_Blueprints/Widget/WBP_Language.WBP_Language_C:WidgetTree.WBP_BaseButtonBoxENG.ButtonText
+#: /Game/1_Blueprints/Widget/WBP_Language.WBP_Language_C:WidgetTree.WBP_BaseButtonBoxENG.ButtonText
+msgctxt ",6DA73EC94A5C983D883015B5760344DE"
+msgid "French"
+msgstr "French"
+
+#. Key:	1287E83343C3D4D63E440FBDF4449740
+#. SourceLocation:	/Game/1_Blueprints/Widget/WBP_Language.WBP_Language_C:WidgetTree.WBP_BaseButtonBoxFR.ButtonText
+#: /Game/1_Blueprints/Widget/WBP_Language.WBP_Language_C:WidgetTree.WBP_BaseButtonBoxFR.ButtonText
+msgctxt ",1287E83343C3D4D63E440FBDF4449740"
+msgid "English"
+msgstr "English"
+
+#. Key:	0B4DA24340E0C508FBD84FB3B2F2B785
+#. SourceLocation:	/Game/1_Blueprints/Widget/WBP_MainMenu.WBP_MainMenu_C:WidgetTree.WBP_BaseButton_Continue.ButtonText
+#: /Game/1_Blueprints/Widget/WBP_MainMenu.WBP_MainMenu_C:WidgetTree.WBP_BaseButton_Continue.ButtonText
+msgctxt ",0B4DA24340E0C508FBD84FB3B2F2B785"
+msgid "Continue"
+msgstr "Continue"
+
+#. Key:	FF3C47DE4F2C40B09FC5DC8D584A9044
+#. SourceLocation:	/Game/1_Blueprints/Widget/WBP_MainMenu.WBP_MainMenu_C:WidgetTree.WBP_BaseButton_NewGame.ButtonText
+#: /Game/1_Blueprints/Widget/WBP_MainMenu.WBP_MainMenu_C:WidgetTree.WBP_BaseButton_NewGame.ButtonText
+msgctxt ",FF3C47DE4F2C40B09FC5DC8D584A9044"
+msgid "New game"
+msgstr "New game"
+
+#. Key:	26AE8F544BCEAE8E5A3BECBA04937B5B
+#. SourceLocation:	/Game/1_Blueprints/Widget/WBP_MainMenu.WBP_MainMenu_C:WidgetTree.WBP_BaseButton_Options.ButtonText
+#: /Game/1_Blueprints/Widget/WBP_MainMenu.WBP_MainMenu_C:WidgetTree.WBP_BaseButton_Options.ButtonText
+msgctxt ",26AE8F544BCEAE8E5A3BECBA04937B5B"
+msgid "Options"
+msgstr "Options"
+
+#. Key:	504771464C94C393114523B97A5F9206
+#. SourceLocation:	/Game/1_Blueprints/Widget/WBP_MainMenu.WBP_MainMenu_C:WidgetTree.WBP_BaseButton_Quit.ButtonText
+#: /Game/1_Blueprints/Widget/WBP_MainMenu.WBP_MainMenu_C:WidgetTree.WBP_BaseButton_Quit.ButtonText
+msgctxt ",504771464C94C393114523B97A5F9206"
+msgid "Quit"
+msgstr "Quit"
+
+#. Key:	7997EEA246393CF82A205591B4E646CA
+#. SourceLocation:	/Game/1_Blueprints/Widget/WBP_MainMenu.WBP_MainMenu_C:WidgetTree.WBP_BaseButton_ReturnOptions.ButtonText
+#: /Game/1_Blueprints/Widget/WBP_MainMenu.WBP_MainMenu_C:WidgetTree.WBP_BaseButton_ReturnOptions.ButtonText
+msgctxt ",7997EEA246393CF82A205591B4E646CA"
+msgid "Return"
+msgstr "Return"
+
+#. Key:	232F07A4493E648D7539428998285482
+#. SourceLocation:	/Game/1_Blueprints/Widget/WBP_MainMenu.WBP_MainMenu_C:WidgetTree.WBP_BaseButton_Zoo.ButtonText
+#: /Game/1_Blueprints/Widget/WBP_MainMenu.WBP_MainMenu_C:WidgetTree.WBP_BaseButton_Zoo.ButtonText
+msgctxt ",232F07A4493E648D7539428998285482"
+msgid "Zoo"
+msgstr "Zoo"
+
+#. Key:	2B3781E84E1AB4B8C7952B90023DDBBD
+#. SourceLocation:	/Game/1_Blueprints/Widget/WBP_MessageInfo.WBP_MessageInfo_C:WidgetTree.TextMessages.Text
+#: /Game/1_Blueprints/Widget/WBP_MessageInfo.WBP_MessageInfo_C:WidgetTree.TextMessages.Text
+msgctxt ",2B3781E84E1AB4B8C7952B90023DDBBD"
+msgid "Ceci est un message d'information."
+msgstr "Ceci est un message d'information."
+
+#. Key:	EDE16D664FE2DBF6E757A697FEE96298
+#. SourceLocation:	/Game/1_Blueprints/Widget/WBP_Options.WBP_Options_C:WidgetTree.ControlsText_inventory.Text
+#: /Game/1_Blueprints/Widget/WBP_Options.WBP_Options_C:WidgetTree.ControlsText_inventory.Text
+msgctxt ",EDE16D664FE2DBF6E757A697FEE96298"
+msgid "Inventory"
+msgstr "Inventory"
+
+#. Key:	4210EE7D402CD66A828030A1910EB993
+#. SourceLocation:	/Game/1_Blueprints/Widget/WBP_Options.WBP_Options_C:WidgetTree.ControlsText_inventory_2.Text
+#: /Game/1_Blueprints/Widget/WBP_Options.WBP_Options_C:WidgetTree.ControlsText_inventory_2.Text
+msgctxt ",4210EE7D402CD66A828030A1910EB993"
+msgid "Pause"
+msgstr "Pause"
+
+#. Key:	93E449874C230CC1E05A3EB7FBF9C988
+#. SourceLocation:	/Game/1_Blueprints/Widget/WBP_Options.WBP_Options_C:WidgetTree.ControlsText_inventory_Clope.Text
+#: /Game/1_Blueprints/Widget/WBP_Options.WBP_Options_C:WidgetTree.ControlsText_inventory_Clope.Text
+msgctxt ",93E449874C230CC1E05A3EB7FBF9C988"
+msgid "Smoke"
+msgstr "Smoke"
+
+#. Key:	255958AA4775DC099F76CAAB1A5CF0FC
+#. SourceLocation:	/Game/1_Blueprints/Widget/WBP_Options.WBP_Options_C:WidgetTree.ControlsText_inventory_Interact.Text
+#: /Game/1_Blueprints/Widget/WBP_Options.WBP_Options_C:WidgetTree.ControlsText_inventory_Interact.Text
+msgctxt ",255958AA4775DC099F76CAAB1A5CF0FC"
+msgid "Interact"
+msgstr "Interact"
+
+#. Key:	213B2C5B4656685EEDB57A99D0858D64
+#. SourceLocation:	/Game/1_Blueprints/Widget/WBP_Options.WBP_Options_C:WidgetTree.ControlsText_inventory_NoteBook.Text
+#: /Game/1_Blueprints/Widget/WBP_Options.WBP_Options_C:WidgetTree.ControlsText_inventory_NoteBook.Text
+msgctxt ",213B2C5B4656685EEDB57A99D0858D64"
+msgid "Note book"
+msgstr "Note book"
+
+#. Key:	A912BB5343C8D0977A4178B196BF5323
+#. SourceLocation:	/Game/1_Blueprints/Widget/WBP_Options.WBP_Options_C:WidgetTree.ControlsText_inventoryMaskBlue.Text
+#: /Game/1_Blueprints/Widget/WBP_Options.WBP_Options_C:WidgetTree.ControlsText_inventoryMaskBlue.Text
+msgctxt ",A912BB5343C8D0977A4178B196BF5323"
+msgid "Blue Mask"
+msgstr "Blue Mask"
+
+#. Key:	0375187449277641D67EA7ADD9BD696D
+#. SourceLocation:	/Game/1_Blueprints/Widget/WBP_Options.WBP_Options_C:WidgetTree.ControlsText_inventoryMaskGreen.Text
+#: /Game/1_Blueprints/Widget/WBP_Options.WBP_Options_C:WidgetTree.ControlsText_inventoryMaskGreen.Text
+msgctxt ",0375187449277641D67EA7ADD9BD696D"
+msgid "Green Mask"
+msgstr "Green Mask"
+
+#. Key:	E812150F4B6CEB5667C02B98E9945648
+#. SourceLocation:	/Game/1_Blueprints/Widget/WBP_Options.WBP_Options_C:WidgetTree.ControlsText_inventoryMaskYellow*.Text
+#: /Game/1_Blueprints/Widget/WBP_Options.WBP_Options_C:WidgetTree.ControlsText_inventoryMaskYellow*.Text
+msgctxt ",E812150F4B6CEB5667C02B98E9945648"
+msgid "Yellow Mask"
+msgstr "Yellow Mask"
+
+#. Key:	9FE9CC41436C7936C7D25889F84593D1
+#. SourceLocation:	/Game/1_Blueprints/Widget/WBP_Options.WBP_Options_C:WidgetTree.ControlsText_inventoryPutMaskOn.Text
+#: /Game/1_Blueprints/Widget/WBP_Options.WBP_Options_C:WidgetTree.ControlsText_inventoryPutMaskOn.Text
+msgctxt ",9FE9CC41436C7936C7D25889F84593D1"
+msgid "Equip mask"
+msgstr "Equip mask"
+
+#. Key:	2D2583C643B5701EC89542B1C464B6A1
+#. SourceLocation:	/Game/1_Blueprints/Widget/WBP_Options.WBP_Options_C:WidgetTree.ControlsText_move.Text
+#: /Game/1_Blueprints/Widget/WBP_Options.WBP_Options_C:WidgetTree.ControlsText_move.Text
+msgctxt ",2D2583C643B5701EC89542B1C464B6A1"
+msgid "Move"
+msgstr "Move"
+
+#. Key:	64183CB5454A0FC8D80D0AABDB14167E
+#. SourceLocation:	/Game/1_Blueprints/Widget/WBP_Options.WBP_Options_C:WidgetTree.ControlsText_move_2.Text
+#: /Game/1_Blueprints/Widget/WBP_Options.WBP_Options_C:WidgetTree.ControlsText_move_2.Text
+msgctxt ",64183CB5454A0FC8D80D0AABDB14167E"
+msgid "Move in UI"
+msgstr "Move in UI"
+
+#. Key:	AA3C35C04E9D184D351F7CB0E36501EE
+#. SourceLocation:	/Game/1_Blueprints/Widget/WBP_Options.WBP_Options_C:WidgetTree.ControlsText_move_3.Text
+#: /Game/1_Blueprints/Widget/WBP_Options.WBP_Options_C:WidgetTree.ControlsText_move_3.Text
+msgctxt ",AA3C35C04E9D184D351F7CB0E36501EE"
+msgid "Pause"
+msgstr "Pause"
+
+#. Key:	71D2876A4FA1EACB6AEA0F9E51710E9D
+#. SourceLocation:	/Game/1_Blueprints/Widget/WBP_Options.WBP_Options_C:WidgetTree.OptionText.Text
+#: /Game/1_Blueprints/Widget/WBP_Options.WBP_Options_C:WidgetTree.OptionText.Text
+msgctxt ",71D2876A4FA1EACB6AEA0F9E51710E9D"
+msgid "Options"
+msgstr "Options"
+
+#. Key:	ABB39E634D203DD93B3062A2D28810FA
+#. SourceLocation:	/Game/1_Blueprints/Widget/WBP_Options.WBP_Options_C:WidgetTree.TextBlock_10.Text
+#: /Game/1_Blueprints/Widget/WBP_Options.WBP_Options_C:WidgetTree.TextBlock_10.Text
+msgctxt ",ABB39E634D203DD93B3062A2D28810FA"
+msgid "Low"
+msgstr "Low"
+
+#. Key:	E0545E1D4E7F28E8C28070BB1C18B343
+#. SourceLocation:	/Game/1_Blueprints/Widget/WBP_Options.WBP_Options_C:WidgetTree.TextBlock_11.Text
+#: /Game/1_Blueprints/Widget/WBP_Options.WBP_Options_C:WidgetTree.TextBlock_11.Text
+msgctxt ",E0545E1D4E7F28E8C28070BB1C18B343"
+msgid "Resolution"
+msgstr "Resolution"
+
+#. Key:	532ADD34463ECAF6D4CF2FBA1E95DDD9
+#. SourceLocation:	/Game/1_Blueprints/Widget/WBP_Options.WBP_Options_C:WidgetTree.TextBlock_12.Text
+#: /Game/1_Blueprints/Widget/WBP_Options.WBP_Options_C:WidgetTree.TextBlock_12.Text
+msgctxt ",532ADD34463ECAF6D4CF2FBA1E95DDD9"
+msgid "High"
+msgstr "High"
+
+#. Key:	7C26FD7D4311F1B2D1E63EB9A38B9A38
+#. SourceLocation:	/Game/1_Blueprints/Widget/WBP_Options.WBP_Options_C:WidgetTree.TextBlock_13.Text
+#: /Game/1_Blueprints/Widget/WBP_Options.WBP_Options_C:WidgetTree.TextBlock_13.Text
+msgctxt ",7C26FD7D4311F1B2D1E63EB9A38B9A38"
+msgid "Medium"
+msgstr "Medium"
+
+#. Key:	07ECBD054B714F76E82BCFB80562CAA1
+#. SourceLocation:	/Game/1_Blueprints/Widget/WBP_Options.WBP_Options_C:WidgetTree.TextBlock_14.Text
+#: /Game/1_Blueprints/Widget/WBP_Options.WBP_Options_C:WidgetTree.TextBlock_14.Text
+msgctxt ",07ECBD054B714F76E82BCFB80562CAA1"
+msgid "Low"
+msgstr "Low"
+
+#. Key:	79F140B842E6903C0F10418BB00BB8D5
+#. SourceLocation:	/Game/1_Blueprints/Widget/WBP_Options.WBP_Options_C:WidgetTree.TextBlock_15.Text
+#: /Game/1_Blueprints/Widget/WBP_Options.WBP_Options_C:WidgetTree.TextBlock_15.Text
+msgctxt ",79F140B842E6903C0F10418BB00BB8D5"
+msgid "Window mode"
+msgstr "Window mode"
+
+#. Key:	121E8AA64C56879EFC9D9AAED0AA3149
+#. SourceLocation:	/Game/1_Blueprints/Widget/WBP_Options.WBP_Options_C:WidgetTree.TextBlock_16.Text
+#: /Game/1_Blueprints/Widget/WBP_Options.WBP_Options_C:WidgetTree.TextBlock_16.Text
+msgctxt ",121E8AA64C56879EFC9D9AAED0AA3149"
+msgid "Full screen"
+msgstr "Full screen"
+
+#. Key:	0FCAE55847957951D1B84BA8C7B05CA1
+#. SourceLocation:	/Game/1_Blueprints/Widget/WBP_Options.WBP_Options_C:WidgetTree.TextBlock_17.Text
+#: /Game/1_Blueprints/Widget/WBP_Options.WBP_Options_C:WidgetTree.TextBlock_17.Text
+msgctxt ",0FCAE55847957951D1B84BA8C7B05CA1"
+msgid "Windowed"
+msgstr "Windowed"
+
+#. Key:	253AFA374C22140277A94D8EA944E6C6
+#. SourceLocation:	/Game/1_Blueprints/Widget/WBP_Options.WBP_Options_C:WidgetTree.TextBlock_18.Text
+#: /Game/1_Blueprints/Widget/WBP_Options.WBP_Options_C:WidgetTree.TextBlock_18.Text
+msgctxt ",253AFA374C22140277A94D8EA944E6C6"
+msgid "Borderless"
+msgstr "Borderless"
+
+#. Key:	68305AAC4D8060844DBC19BE1397B256
+#. SourceLocation:	/Game/1_Blueprints/Widget/WBP_Options.WBP_Options_C:WidgetTree.TextBlock_22.Text
+#: /Game/1_Blueprints/Widget/WBP_Options.WBP_Options_C:WidgetTree.TextBlock_22.Text
+msgctxt ",68305AAC4D8060844DBC19BE1397B256"
+msgid "Language"
+msgstr "Language"
+
+#. Key:	54516F6F48C64440C9751F94F03A05C8
+#. SourceLocation:	/Game/1_Blueprints/Widget/WBP_Options.WBP_Options_C:WidgetTree.TextBlock_334.Text
+#: /Game/1_Blueprints/Widget/WBP_Options.WBP_Options_C:WidgetTree.TextBlock_334.Text
+msgctxt ",54516F6F48C64440C9751F94F03A05C8"
+msgid "Quality preset"
+msgstr "Quality preset"
+
+#. Key:	57C825F84FD26AB804B0FF99F0B9F902
+#. SourceLocation:	/Game/1_Blueprints/Widget/WBP_Options.WBP_Options_C:WidgetTree.TextBlock_4.Text
+#: /Game/1_Blueprints/Widget/WBP_Options.WBP_Options_C:WidgetTree.TextBlock_4.Text
+msgctxt ",57C825F84FD26AB804B0FF99F0B9F902"
+msgid "Music volume"
+msgstr "Music volume"
+
+#. Key:	C11BD7F341C6C556891081B1EE3DD0B0
+#. SourceLocation:	/Game/1_Blueprints/Widget/WBP_Options.WBP_Options_C:WidgetTree.TextBlock_497.Text
+#: /Game/1_Blueprints/Widget/WBP_Options.WBP_Options_C:WidgetTree.TextBlock_497.Text
+msgctxt ",C11BD7F341C6C556891081B1EE3DD0B0"
+msgid "High"
+msgstr "High"
+
+#. Key:	E9CDEF8A47B456DCC64EC59D0D937B7D
+#. SourceLocation:	/Game/1_Blueprints/Widget/WBP_Options.WBP_Options_C:WidgetTree.TextBlock_8.Text
+#: /Game/1_Blueprints/Widget/WBP_Options.WBP_Options_C:WidgetTree.TextBlock_8.Text
+msgctxt ",E9CDEF8A47B456DCC64EC59D0D937B7D"
+msgid "Effects volume"
+msgstr "Effects volume"
+
+#. Key:	FAA126824F4D4E4B4DCD1EA7B7DFA934
+#. SourceLocation:	/Game/1_Blueprints/Widget/WBP_Options.WBP_Options_C:WidgetTree.TextBlock_9.Text
+#: /Game/1_Blueprints/Widget/WBP_Options.WBP_Options_C:WidgetTree.TextBlock_9.Text
+msgctxt ",FAA126824F4D4E4B4DCD1EA7B7DFA934"
+msgid "Medium"
+msgstr "Medium"
+
+#. Key:	84B9BFF74862308B920A65899CC1F120
+#. SourceLocation:	/Game/1_Blueprints/Widget/WBP_Options.WBP_Options_C:WidgetTree.WBP_BaseButton_Audio.ButtonText
+#: /Game/1_Blueprints/Widget/WBP_Options.WBP_Options_C:WidgetTree.WBP_BaseButton_Audio.ButtonText
+msgctxt ",84B9BFF74862308B920A65899CC1F120"
+msgid "Audio"
+msgstr "Audio"
+
+#. Key:	402B744C4B5F356BCEFBE8B8BD466416
+#. SourceLocation:	/Game/1_Blueprints/Widget/WBP_Options.WBP_Options_C:WidgetTree.WBP_BaseButton_Controls.ButtonText
+#: /Game/1_Blueprints/Widget/WBP_Options.WBP_Options_C:WidgetTree.WBP_BaseButton_Controls.ButtonText
+msgctxt ",402B744C4B5F356BCEFBE8B8BD466416"
+msgid "Controls"
+msgstr "Controls"
+
+#. Key:	6EDCFA8D45584C96142CAB8FCF750EEC
+#. SourceLocation:	/Game/1_Blueprints/Widget/WBP_Options.WBP_Options_C:WidgetTree.WBP_BaseButton_Graphics.ButtonText
+#: /Game/1_Blueprints/Widget/WBP_Options.WBP_Options_C:WidgetTree.WBP_BaseButton_Graphics.ButtonText
+msgctxt ",6EDCFA8D45584C96142CAB8FCF750EEC"
+msgid "Graphics"
+msgstr "Graphics"
+
+#. Key:	DFE8433445E76082CDADC4B761E8FF53
+#. SourceLocation:	/Game/1_Blueprints/Widget/WBP_Options.WBP_Options_C:WidgetTree.WBP_BaseButton_Language.ButtonText
+#: /Game/1_Blueprints/Widget/WBP_Options.WBP_Options_C:WidgetTree.WBP_BaseButton_Language.ButtonText
+msgctxt ",DFE8433445E76082CDADC4B761E8FF53"
+msgid "Language"
+msgstr "Language"
+
+#. Key:	A5A5FE4643877248FEDD6FBFD9CED1AA
+#. SourceLocation:	/Game/1_Blueprints/Widget/WBP_Pause.WBP_Pause_C:WidgetTree.TextBlock_71.Text
+#: /Game/1_Blueprints/Widget/WBP_Pause.WBP_Pause_C:WidgetTree.TextBlock_71.Text
+msgctxt ",A5A5FE4643877248FEDD6FBFD9CED1AA"
+msgid "Pause"
+msgstr "Pause"
+
+#. Key:	10F01A6D40BE36EC54D533A21AC7156B
+#. SourceLocation:	/Game/1_Blueprints/Widget/WBP_Pause.WBP_Pause_C:WidgetTree.WBP_BaseButton_Options.ButtonText
+#: /Game/1_Blueprints/Widget/WBP_Pause.WBP_Pause_C:WidgetTree.WBP_BaseButton_Options.ButtonText
+msgctxt ",10F01A6D40BE36EC54D533A21AC7156B"
+msgid "Options"
+msgstr "Options"
+
+#. Key:	8AE798E44313C87EEFCB04B0522D640B
+#. SourceLocation:	/Game/1_Blueprints/Widget/WBP_Pause.WBP_Pause_C:WidgetTree.WBP_BaseButton_QuitDesktop.ButtonText
+#: /Game/1_Blueprints/Widget/WBP_Pause.WBP_Pause_C:WidgetTree.WBP_BaseButton_QuitDesktop.ButtonText
+msgctxt ",8AE798E44313C87EEFCB04B0522D640B"
+msgid "Quit to desktop"
+msgstr "Quit to desktop"
+
+#. Key:	E6A49B2B4638760495D38495878B47D9
+#. SourceLocation:	/Game/1_Blueprints/Widget/WBP_Pause.WBP_Pause_C:WidgetTree.WBP_BaseButton_QuitMenu.ButtonText
+#: /Game/1_Blueprints/Widget/WBP_Pause.WBP_Pause_C:WidgetTree.WBP_BaseButton_QuitMenu.ButtonText
+msgctxt ",E6A49B2B4638760495D38495878B47D9"
+msgid "Quit to menu"
+msgstr "Quit to menu"
+
+#. Key:	A0F4722745AD798C94A6179C5FBCFDDC
+#. SourceLocation:	/Game/1_Blueprints/Widget/WBP_Pause.WBP_Pause_C:WidgetTree.WBP_BaseButton_Resume.ButtonText
+#: /Game/1_Blueprints/Widget/WBP_Pause.WBP_Pause_C:WidgetTree.WBP_BaseButton_Resume.ButtonText
+msgctxt ",A0F4722745AD798C94A6179C5FBCFDDC"
+msgid "Resume"
+msgstr "Resume"
+
+#. Key:	2BD8985545F7029D86D646AA6EAFE27A
+#. SourceLocation:	/Game/1_Blueprints/Widget/WBP_Pause.WBP_Pause_C:WidgetTree.WBP_BaseButton_Return.ButtonText
+#: /Game/1_Blueprints/Widget/WBP_Pause.WBP_Pause_C:WidgetTree.WBP_BaseButton_Return.ButtonText
+msgctxt ",2BD8985545F7029D86D646AA6EAFE27A"
+msgid "Return"
+msgstr "Return"
+
+#. Key:	DF9438F744B523D3D9560583B8A135E8
+#. SourceLocation:	/Game/1_Blueprints/Widget/WBP_SaveOptions.WBP_SaveOptions_C:WidgetTree.WBP_BaseButtonBox_ClearSave.ButtonText
+#: /Game/1_Blueprints/Widget/WBP_SaveOptions.WBP_SaveOptions_C:WidgetTree.WBP_BaseButtonBox_ClearSave.ButtonText
+msgctxt ",DF9438F744B523D3D9560583B8A135E8"
+msgid "Clear Save"
+msgstr "Clear Save"
+
+#. Key:	557512F94AEC2A02DE74FC8D3D161106
+#. SourceLocation:	/Game/1_Blueprints/Widget/WBP_SaveOptions.WBP_SaveOptions_C:WidgetTree.WBP_BaseButtonBox_LoadData.ButtonText
+#: /Game/1_Blueprints/Widget/WBP_SaveOptions.WBP_SaveOptions_C:WidgetTree.WBP_BaseButtonBox_LoadData.ButtonText
+msgctxt ",557512F94AEC2A02DE74FC8D3D161106"
+msgid "Load Data"
+msgstr "Load Data"
+
+#. Key:	EDEDDA4C438D9151229D0789848D2D5E
+#. SourceLocation:	/Game/1_Blueprints/Widget/WBP_SavingGame.WBP_SavingGame_C:WidgetTree.SavedText.Text
+#: /Game/1_Blueprints/Widget/WBP_SavingGame.WBP_SavingGame_C:WidgetTree.SavedText.Text
+msgctxt ",EDEDDA4C438D9151229D0789848D2D5E"
+msgid "Game saved"
+msgstr "Game saved"
+
