@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2026-02-04 12:56\n"
-"PO-Revision-Date: 2026-02-04 12:56\n"
+"POT-Creation-Date: 2026-02-04 17:40\n"
+"PO-Revision-Date: 2026-02-04 17:40\n"
 "Language-Team: \n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
@@ -228,7 +228,7 @@ msgstr "Luca Matadore"
 #: /Game/0_Map/BuildScene/Lvl_BuildV4.Lvl_BuildV4:PersistentLevel.BP_BlockAccueil_C_2.DoorIsLockedLog
 msgctxt ",4D6D46CA4E0855BDDB443B98DD6F4D3B"
 msgid "The door is closed, I can find another way around"
-msgstr "The door is closed, I can find another way around"
+msgstr "The door is closed i can find another way around"
 
 #. Key:	A1A396A14BBF1A27CBE2578D733F4DB1
 #. SourceLocation:	/Game/0_Map/BuildScene/Lvl_BuildV4.Lvl_BuildV4:PersistentLevel.BP_HiddenMessage_C_0.Hidden1Blue
@@ -255,8 +255,8 @@ msgstr "This year it all began"
 #. SourceLocation:	/Game/0_Map/BuildScene/Lvl_BuildV4.Lvl_BuildV4:PersistentLevel.BP_HiddenMessage_C_0.VisibleMessage
 #: /Game/0_Map/BuildScene/Lvl_BuildV4.Lvl_BuildV4:PersistentLevel.BP_HiddenMessage_C_0.VisibleMessage
 msgctxt ",441C130F44CD72EE74E97F8500DD6974"
-msgid "You have to give up."
-msgstr "You have to give up."
+msgid "You have to give up, Pantalone."
+msgstr "You have to give up, Pantalone."
 
 #. Key:	E2D83F6242E64094A9AC44B85882CCA0
 #. SourceLocation:	/Game/0_Map/BuildScene/Lvl_BuildV4.Lvl_BuildV4:PersistentLevel.BP_OfficeGuy_C_0.Dialogues(0).Dialogues.Lines_9_23878CF44E9D35D629285BA10C7AD832
@@ -928,7 +928,7 @@ msgstr "Relationships"
 #: /Game/1_Blueprints/Widget/WBP_Calepin.WBP_Calepin_C:WidgetTree.TextBlock.Text
 msgctxt ",580741644368DE353A7735AEE98F84F8"
 msgid "A ticket for another chair= RightWing K4"
-msgstr "A ticket for another chair= RightWing K4"
+msgstr "A ticket for another chair= RightWing K5"
 
 #. Key:	C639E4C64D01912BDBCE3B8C14997C21
 #. SourceLocation:	/Game/1_Blueprints/Widget/WBP_Calepin.WBP_Calepin_C:WidgetTree.TextBlock_1.Text
@@ -1208,7 +1208,7 @@ msgstr "Interact"
 #: /Game/1_Blueprints/Widget/WBP_Options.WBP_Options_C:WidgetTree.ControlsText_inventory_NoteBook.Text
 msgctxt ",213B2C5B4656685EEDB57A99D0858D64"
 msgid "Note book"
-msgstr "Note book"
+msgstr "Note Book"
 
 #. Key:	A912BB5343C8D0977A4178B196BF5323
 #. SourceLocation:	/Game/1_Blueprints/Widget/WBP_Options.WBP_Options_C:WidgetTree.ControlsText_inventoryMaskBlue.Text
@@ -1266,13 +1266,6 @@ msgctxt ",71D2876A4FA1EACB6AEA0F9E51710E9D"
 msgid "Options"
 msgstr "Options"
 
-#. Key:	ABB39E634D203DD93B3062A2D28810FA
-#. SourceLocation:	/Game/1_Blueprints/Widget/WBP_Options.WBP_Options_C:WidgetTree.TextBlock_10.Text
-#: /Game/1_Blueprints/Widget/WBP_Options.WBP_Options_C:WidgetTree.TextBlock_10.Text
-msgctxt ",ABB39E634D203DD93B3062A2D28810FA"
-msgid "Low"
-msgstr "Low"
-
 #. Key:	E0545E1D4E7F28E8C28070BB1C18B343
 #. SourceLocation:	/Game/1_Blueprints/Widget/WBP_Options.WBP_Options_C:WidgetTree.TextBlock_11.Text
 #: /Game/1_Blueprints/Widget/WBP_Options.WBP_Options_C:WidgetTree.TextBlock_11.Text
@@ -1280,54 +1273,12 @@ msgctxt ",E0545E1D4E7F28E8C28070BB1C18B343"
 msgid "Resolution"
 msgstr "Resolution"
 
-#. Key:	532ADD34463ECAF6D4CF2FBA1E95DDD9
-#. SourceLocation:	/Game/1_Blueprints/Widget/WBP_Options.WBP_Options_C:WidgetTree.TextBlock_12.Text
-#: /Game/1_Blueprints/Widget/WBP_Options.WBP_Options_C:WidgetTree.TextBlock_12.Text
-msgctxt ",532ADD34463ECAF6D4CF2FBA1E95DDD9"
-msgid "High"
-msgstr "High"
-
-#. Key:	7C26FD7D4311F1B2D1E63EB9A38B9A38
-#. SourceLocation:	/Game/1_Blueprints/Widget/WBP_Options.WBP_Options_C:WidgetTree.TextBlock_13.Text
-#: /Game/1_Blueprints/Widget/WBP_Options.WBP_Options_C:WidgetTree.TextBlock_13.Text
-msgctxt ",7C26FD7D4311F1B2D1E63EB9A38B9A38"
-msgid "Medium"
-msgstr "Medium"
-
-#. Key:	07ECBD054B714F76E82BCFB80562CAA1
-#. SourceLocation:	/Game/1_Blueprints/Widget/WBP_Options.WBP_Options_C:WidgetTree.TextBlock_14.Text
-#: /Game/1_Blueprints/Widget/WBP_Options.WBP_Options_C:WidgetTree.TextBlock_14.Text
-msgctxt ",07ECBD054B714F76E82BCFB80562CAA1"
-msgid "Low"
-msgstr "Low"
-
 #. Key:	79F140B842E6903C0F10418BB00BB8D5
 #. SourceLocation:	/Game/1_Blueprints/Widget/WBP_Options.WBP_Options_C:WidgetTree.TextBlock_15.Text
 #: /Game/1_Blueprints/Widget/WBP_Options.WBP_Options_C:WidgetTree.TextBlock_15.Text
 msgctxt ",79F140B842E6903C0F10418BB00BB8D5"
 msgid "Window mode"
 msgstr "Window mode"
-
-#. Key:	121E8AA64C56879EFC9D9AAED0AA3149
-#. SourceLocation:	/Game/1_Blueprints/Widget/WBP_Options.WBP_Options_C:WidgetTree.TextBlock_16.Text
-#: /Game/1_Blueprints/Widget/WBP_Options.WBP_Options_C:WidgetTree.TextBlock_16.Text
-msgctxt ",121E8AA64C56879EFC9D9AAED0AA3149"
-msgid "Full screen"
-msgstr "Full screen"
-
-#. Key:	0FCAE55847957951D1B84BA8C7B05CA1
-#. SourceLocation:	/Game/1_Blueprints/Widget/WBP_Options.WBP_Options_C:WidgetTree.TextBlock_17.Text
-#: /Game/1_Blueprints/Widget/WBP_Options.WBP_Options_C:WidgetTree.TextBlock_17.Text
-msgctxt ",0FCAE55847957951D1B84BA8C7B05CA1"
-msgid "Windowed"
-msgstr "Windowed"
-
-#. Key:	253AFA374C22140277A94D8EA944E6C6
-#. SourceLocation:	/Game/1_Blueprints/Widget/WBP_Options.WBP_Options_C:WidgetTree.TextBlock_18.Text
-#: /Game/1_Blueprints/Widget/WBP_Options.WBP_Options_C:WidgetTree.TextBlock_18.Text
-msgctxt ",253AFA374C22140277A94D8EA944E6C6"
-msgid "Borderless"
-msgstr "Borderless"
 
 #. Key:	68305AAC4D8060844DBC19BE1397B256
 #. SourceLocation:	/Game/1_Blueprints/Widget/WBP_Options.WBP_Options_C:WidgetTree.TextBlock_22.Text
@@ -1350,26 +1301,12 @@ msgctxt ",57C825F84FD26AB804B0FF99F0B9F902"
 msgid "Music volume"
 msgstr "Music volume"
 
-#. Key:	C11BD7F341C6C556891081B1EE3DD0B0
-#. SourceLocation:	/Game/1_Blueprints/Widget/WBP_Options.WBP_Options_C:WidgetTree.TextBlock_497.Text
-#: /Game/1_Blueprints/Widget/WBP_Options.WBP_Options_C:WidgetTree.TextBlock_497.Text
-msgctxt ",C11BD7F341C6C556891081B1EE3DD0B0"
-msgid "High"
-msgstr "High"
-
 #. Key:	E9CDEF8A47B456DCC64EC59D0D937B7D
 #. SourceLocation:	/Game/1_Blueprints/Widget/WBP_Options.WBP_Options_C:WidgetTree.TextBlock_8.Text
 #: /Game/1_Blueprints/Widget/WBP_Options.WBP_Options_C:WidgetTree.TextBlock_8.Text
 msgctxt ",E9CDEF8A47B456DCC64EC59D0D937B7D"
 msgid "Effects volume"
 msgstr "Effects volume"
-
-#. Key:	FAA126824F4D4E4B4DCD1EA7B7DFA934
-#. SourceLocation:	/Game/1_Blueprints/Widget/WBP_Options.WBP_Options_C:WidgetTree.TextBlock_9.Text
-#: /Game/1_Blueprints/Widget/WBP_Options.WBP_Options_C:WidgetTree.TextBlock_9.Text
-msgctxt ",FAA126824F4D4E4B4DCD1EA7B7DFA934"
-msgid "Medium"
-msgstr "Medium"
 
 #. Key:	84B9BFF74862308B920A65899CC1F120
 #. SourceLocation:	/Game/1_Blueprints/Widget/WBP_Options.WBP_Options_C:WidgetTree.WBP_BaseButton_Audio.ButtonText
@@ -1398,6 +1335,69 @@ msgstr "Graphics"
 msgctxt ",DFE8433445E76082CDADC4B761E8FF53"
 msgid "Language"
 msgstr "Language"
+
+#. Key:	FD8E665A44313AE4EBD283949841AE02
+#. SourceLocation:	/Game/1_Blueprints/Widget/WBP_Options.WBP_Options_C:WidgetTree.WBP_BaseButtonBox.ButtonText
+#: /Game/1_Blueprints/Widget/WBP_Options.WBP_Options_C:WidgetTree.WBP_BaseButtonBox.ButtonText
+msgctxt ",FD8E665A44313AE4EBD283949841AE02"
+msgid "High"
+msgstr "High"
+
+#. Key:	B11A3DA94312FCF5DDCB42A155863171
+#. SourceLocation:	/Game/1_Blueprints/Widget/WBP_Options.WBP_Options_C:WidgetTree.WBP_BaseButtonBox_1.ButtonText
+#: /Game/1_Blueprints/Widget/WBP_Options.WBP_Options_C:WidgetTree.WBP_BaseButtonBox_1.ButtonText
+msgctxt ",B11A3DA94312FCF5DDCB42A155863171"
+msgid "Medium"
+msgstr "Medium"
+
+#. Key:	010131CD48A6E0910BC66D9E9F30F491
+#. SourceLocation:	/Game/1_Blueprints/Widget/WBP_Options.WBP_Options_C:WidgetTree.WBP_BaseButtonBox_2.ButtonText
+#: /Game/1_Blueprints/Widget/WBP_Options.WBP_Options_C:WidgetTree.WBP_BaseButtonBox_2.ButtonText
+msgctxt ",010131CD48A6E0910BC66D9E9F30F491"
+msgid "Low"
+msgstr "Low"
+
+#. Key:	AA629B1D43A3522E3FCF01ACF066152D
+#. SourceLocation:	/Game/1_Blueprints/Widget/WBP_Options.WBP_Options_C:WidgetTree.WBP_BaseButtonBox_3.ButtonText
+#: /Game/1_Blueprints/Widget/WBP_Options.WBP_Options_C:WidgetTree.WBP_BaseButtonBox_3.ButtonText
+msgctxt ",AA629B1D43A3522E3FCF01ACF066152D"
+msgid "1920x1080"
+msgstr "1920x1080"
+
+#. Key:	6749619748006BE8DE97A39C752C4891
+#. SourceLocation:	/Game/1_Blueprints/Widget/WBP_Options.WBP_Options_C:WidgetTree.WBP_BaseButtonBox_4.ButtonText
+#: /Game/1_Blueprints/Widget/WBP_Options.WBP_Options_C:WidgetTree.WBP_BaseButtonBox_4.ButtonText
+msgctxt ",6749619748006BE8DE97A39C752C4891"
+msgid "1600x1200"
+msgstr "1600x1200"
+
+#. Key:	5C593EE04B13C25C68D0C5866D60D451
+#. SourceLocation:	/Game/1_Blueprints/Widget/WBP_Options.WBP_Options_C:WidgetTree.WBP_BaseButtonBox_5.ButtonText
+#: /Game/1_Blueprints/Widget/WBP_Options.WBP_Options_C:WidgetTree.WBP_BaseButtonBox_5.ButtonText
+msgctxt ",5C593EE04B13C25C68D0C5866D60D451"
+msgid "1400x1050"
+msgstr "1400x1050"
+
+#. Key:	9EBF011D498F45184E554C9A65777AB6
+#. SourceLocation:	/Game/1_Blueprints/Widget/WBP_Options.WBP_Options_C:WidgetTree.WBP_BaseButtonBox_6.ButtonText
+#: /Game/1_Blueprints/Widget/WBP_Options.WBP_Options_C:WidgetTree.WBP_BaseButtonBox_6.ButtonText
+msgctxt ",9EBF011D498F45184E554C9A65777AB6"
+msgid "Fullscreen"
+msgstr "Fullscreen"
+
+#. Key:	C194B2D94935179161BFAA9875A3D68D
+#. SourceLocation:	/Game/1_Blueprints/Widget/WBP_Options.WBP_Options_C:WidgetTree.WBP_BaseButtonBox_7.ButtonText
+#: /Game/1_Blueprints/Widget/WBP_Options.WBP_Options_C:WidgetTree.WBP_BaseButtonBox_7.ButtonText
+msgctxt ",C194B2D94935179161BFAA9875A3D68D"
+msgid "Windowed"
+msgstr "Windowed"
+
+#. Key:	F6425E89436C76A7F5AA1DB668767F22
+#. SourceLocation:	/Game/1_Blueprints/Widget/WBP_Options.WBP_Options_C:WidgetTree.WBP_BaseButtonBox_8.ButtonText
+#: /Game/1_Blueprints/Widget/WBP_Options.WBP_Options_C:WidgetTree.WBP_BaseButtonBox_8.ButtonText
+msgctxt ",F6425E89436C76A7F5AA1DB668767F22"
+msgid "Borderless"
+msgstr "Borderless"
 
 #. Key:	A5A5FE4643877248FEDD6FBFD9CED1AA
 #. SourceLocation:	/Game/1_Blueprints/Widget/WBP_Pause.WBP_Pause_C:WidgetTree.TextBlock_71.Text
